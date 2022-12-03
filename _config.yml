@@ -61,7 +61,7 @@ mastodon:
   username               : HiltonTod
   instance               : hachyderm.io
 twitter:
-  username               : hiltontod
+  username               : 
 facebook:
   username               : 
   app_id                 :
