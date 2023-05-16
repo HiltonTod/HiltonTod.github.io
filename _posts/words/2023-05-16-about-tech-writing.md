@@ -19,7 +19,7 @@ Placeholder for a future article about _a day in the life of a technical writer_
 
 Meanwhile, here are the slides from a presentation I gave on May 17, 2023 to university students
 participating in Google's [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
-program.
+program. There are more explanations and resources listed in the speaker notes.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTFjolEtPJNLUob0BfE8nV9NXmuueUSFydXhIGSz9ZVhPSilZ5JZNYEnoTdGx0iZcHYmwoNCe9yvfD/embed?start=true&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
