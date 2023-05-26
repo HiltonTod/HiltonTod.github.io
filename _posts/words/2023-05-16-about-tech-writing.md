@@ -15,15 +15,13 @@ featured:
 ads: false
 ---
 
-# Introduction
-
-For eight years of my career, I was a software development engineer in test (SDET)
-
-Several years ago, when I spent my days as a software development engineer in test (SDET), I was chatting
-with a friend who was a technical writer. I had worked with people in the Help It was the first time I remember
-
-During my years as a technical writer, I've often been asked various forms of "what does a technical writer
-do?"
+I'm often asked "what does a technical writer do?" I usually respond by describing
+where I work, the goals of my projects, the kind of work they entail, and how I spend
+my time. But when I was asked to spend an hour discussing technical writing with a
+group of university students participating in Google's
+[Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
+program, I thought it might be time to put a little more thought into it and write
+it down. Honestly, this article has been percolating in my mind for a while.
 
 # What is technical writing
 
@@ -33,9 +31,10 @@ find plenty of accurate and detailed descriptions, but I boil it down to the fol
 
 `Technical writing is helping people understand complex ideas and technology.`
 
-This is what I always come back to when I'm explaining my work to someone. I enjoy
-helping people and learning technologies; putting the two together is what led me to
-the technical writing discipline.
+This is what I always come back to when I'm explaining my work to someone. It's also
+what led me to the discipline, pulling me away from software engineering. I enjoy
+learning technologies and helping people; putting the two together was a turning
+point in my career.
 
 To break it down a bit further, technical writers spend much of their time doing the following.
 
@@ -51,16 +50,16 @@ their job. One of the main reasons I switched from software engineering to techn
 writing is because the skills I excelled at mapped to those most needed by technical
 writers.
 
-*   Communicate - It's not just about the writing, although that is important
-*   Collaborate - With people and teams in different disciplines (engineering,
+*   **Communicate** - It's not just about the writing, although that is important
+*   **Collaborate** - With people and teams in different disciplines (engineering,
     program management, user experience, & more)
-*   Curiosity - Always be learning
-*   Empathy - Put yourself in your readers place
-*   Planning - Plan the work
-*   Organization - Work the plan
-*   Research - Know where to find answers or who to ask
-*   Technical aptitude - Able to interpret and explain concepts and instructions
-*   Practice, practice, practice - Self explanatory :)
+*   **Curiosity** - Always be learning
+*   **Empathy** - Put yourself in your readers place
+*   **Planning** - Plan the work
+*   **Organization** - Work the plan
+*   **Research** - Know where to find answers or who to ask
+*   **Technical aptitude** - Able to interpret and explain concepts and instructions
+*   **Practice, practice, practice** - Self explanatory :)
 
 Now that you've read the list, let's go into a bit more detail about each of the skills.
 
@@ -72,7 +71,7 @@ key to just about everything in life.
 
 
 
-<todo>
+TODO
 _An aside..._ We're often advised to _do what we love_ when it comes to choosing a
 career, but I disagree with this sentiment. I prefer _do what you're good at_ and
 your joy from the work will follow. Spend time understanding your skills, which ones are
@@ -82,7 +81,7 @@ Then map those skills to an industry you want to WORDS GO HERE
 We each have strengths and weaknesses, things that seem to come
 easier than others, and understanding those allows us to choose a profession
 that maps to our strengths.
-</todo>
+/TODO
 
 # Day in the life
 
