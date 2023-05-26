@@ -15,7 +15,32 @@ featured:
 ads: false
 ---
 
-Placeholder for a future article about _a day in the life of a technical writer_.
+# Introduction
+
+For eight years of my career, I was a software development engineer in test (SDET)
+
+Several years ago, when I spent my days as a software development engineer in test (SDET), I was chatting
+with a friend who was a technical writer. I had worked with people in the Help It was the first time I remember
+
+During my years as a technical writer, I've often been asked various forms of "what does a technical writer
+do?"
+
+# Technical writing is
+
+
+
+# Skills of a technical writer
+
+
+
+# Day in the life
+
+
+
+# Q&A
+
+
+# Presentation slides
 
 Meanwhile, here are the slides from a presentation I gave on May 17, 2023 to university students
 participating in Google's [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
