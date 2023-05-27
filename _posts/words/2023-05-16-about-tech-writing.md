@@ -29,7 +29,7 @@ Before I describe the work of a technical writer or what their day might look li
 establish the purpose of technical writing. If you search "what is technical writing" you'll
 find plenty of accurate and detailed descriptions, but I boil it down to the following.
 
-`Technical writing is helping people understand complex ideas and technology.`
+> Technical writing is helping people understand complex ideas and technology.
 
 This is what I always come back to when I'm explaining my work to someone. It's also
 what led me to the discipline, pulling me away from software engineering. I enjoy
