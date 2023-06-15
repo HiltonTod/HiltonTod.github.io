@@ -72,8 +72,8 @@ key to just about everything in life. If you consider your relationships, person
 or professional, their quality often hinges on how well the two of you communicate.
 Communication is a skill—or set of skills—that can be learned, practiced, and
 improved. Although we're writers by title and trade, technical writers need to
-be able to communicate effectively across job disciplines, teams, and even companies
-using any means necessary.
+be able to communicate effectively across job disciplines, teams, and even companies,
+using all the methods available to us.
 
 ## Collaborate
 
