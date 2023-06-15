@@ -45,28 +45,69 @@ To break it down a bit further, technical writers spend much of their time doing
 # Skills of a technical writer
 
 While I can (and will) describe a typical day in the life of a technical writer, I
-think it's useful to first share the skills that a successful technical writer uses in
-their job. One of the main reasons I switched from software engineering to technical
-writing is because the skills I excelled at mapped to those most needed by technical
-writers.
+think it's useful to first share the skills that one uses in their job. One of the
+main reasons I switched from software engineering to technical writing is because
+the skills I excelled at mapped to those most needed by technical writers.
 
 *   **Communicate** - It's not just about the writing, although that is important
-*   **Collaborate** - With people and teams in different disciplines (engineering,
-    program management, user experience, & more)
+*   **Collaborate** - With people and teams across different disciplines (engineering,
+    program management, product management, user experience, & more)
 *   **Curiosity** - Always be learning
 *   **Empathy** - Put yourself in your readers place
 *   **Planning** - Plan the work
 *   **Organization** - Work the plan
 *   **Research** - Know where to find answers or who to ask
-*   **Technical aptitude** - Able to interpret and explain concepts and instructions
+*   **Technical aptitude** - Able to understand, interpret, and explain concepts
+    and instructions
 *   **Practice, practice, practice** - Self explanatory :)
 
 Now that you've read the list, let's go into a bit more detail about each of the skills.
 
+> Education is not something you can finish. ~Isaac Asimov
+
 ## Communicate
 
-As a somewhat philosophical-minded person, I feel strongly that communication is the
-key to just about everything in life. 
+As a philosophical-minded person, I feel strongly that communication is the
+key to just about everything in life. If you consider your relationships, personal
+or professional, their quality often hinges on how well the two of you communicate.
+Communication is a skill—or set of skills—that can be learned, practiced, and
+improved. Although we're writers by title and trade, technical writers need to
+be able to communicate effectively across job disciplines, teams, and even companies
+using any means necessary.
+
+## Collaborate
+
+Technical writers often find ourselves collaborating across multiple disciplines
+and can become the glue that brings people, ideas, and projects together. We
+work closely with engineers to understand how the product works, user experience
+researchers (UXR) to learn how people use the product, product managers to
+know what product features are scheduled for the future, program managers to
+know features' status and release dates, user experience writers (UXW) to
+synchronize the technical documentation with the product labels and descriptions,
+and more.
+
+When we are collaborating with different disciplines across multiple teams,
+the strength and effectiveness of those collaborative relationships have a
+large impact on the projects.
+
+## Curiosity
+
+While some might describe curiosity as a personal characteristic, I think it's
+also a skill that you can explicitly develop. The drive to understand how
+something works can come from an interest in the subject matter, or it can come
+from a prescribed expectation that you need to learn about something before
+you can use it. Regardless of the reasoning, being curious serves a technical
+writer well. When you're curious, you ask questions until you understand the
+answers and that's key to successfully explaining complex technologies.
+
+## Empathy
+
+It's imperative that a technical writer understand the perspective of their
+audience. By empathizing with our readers, understanding how they interact
+with the product or technology, we bridge the gap between what people expect
+and what they can do with the product.
+
+## Planning
 
 
 
