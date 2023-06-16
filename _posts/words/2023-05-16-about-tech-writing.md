@@ -42,7 +42,7 @@ To break it down a bit further, technical writers spend much of their time doing
 *   Understanding how people will use those technologies
 *   Explaining them in useful ways for the audience
 
-![Technical writing is...helping people understand complex ideas and technology](/images/bumbershoot-LoveBombGoGo-20120902-132011._DSC5778-400px.jpg "Technical writing is...helping people understand complex ideas and technology"){: .align-right }
+![Technical writing is...helping people understand complex ideas and technology](/images/DayInLifeOfTW-slide02.png "Technical writing is...helping people understand complex ideas and technology"){: .align-right }
 
 # Skills of a technical writer
 
