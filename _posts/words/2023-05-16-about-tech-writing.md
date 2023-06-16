@@ -13,6 +13,8 @@ tags: [technical-writing, technology, writing]
 fullwidth: true
 featured: 
 ads: false
+toc: true
+toc_label: "Technical writing"
 ---
 
 I'm often asked "what does a technical writer do?" I usually respond by describing
