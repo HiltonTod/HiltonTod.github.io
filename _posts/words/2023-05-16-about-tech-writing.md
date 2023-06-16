@@ -123,7 +123,7 @@ audience, use cases, architecture, tasks, and timelines, allowing me to be more
 agile when things went awry—which they often do.
 
 Here's a [doc plan template](https://todhilton.com/technicalwriting/doc-plan-template/)
-that I created for myself and use regularly, which combined aspects I liked
+that I created for myself and use regularly, which combines aspects I liked
 from 5-6 other templates.
 
 ## Organization
