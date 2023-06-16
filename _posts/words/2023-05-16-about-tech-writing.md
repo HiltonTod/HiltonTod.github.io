@@ -194,20 +194,35 @@ and writing.
 ## Collaborate (PgM)
 
 As previously described in the skills section, [collaboration](#Collaborate) is
-imperative to being successful as a technical writer. During a typical workday,
-that involves communicating openly and in a timely manner with the subject matter
-experts, stakeholders, and other writers about the project's status and any
-issues that arise. Technical writers work closely with engineers and subject
-matter experts to gain a certain level of understanding of the product or features.
-Like most, writers often have more requests and work than we can fit into a regular
-day or week, which requires us to prioritize and manage the workload with our
-peers and stakeholders.
+imperative to being successful as a technical writer. I'd posit that it's a
+primary function of a program manager, hence the role comparison.
+
+During a typical workday, that involves communicating openly and in a timely manner
+with the subject matter experts, stakeholders, and other writers about the project's
+status and any issues that arise. Technical writers work closely with engineers and
+subject matter experts to gain a certain level of understanding of the product or
+features. Like most, writers often have more requests and work than we can fit into
+a regular day or week, which requires us to prioritize and manage the workload with
+our peers and stakeholders.
 
 ## Engineer (SWE)
 
+You might think that this functionality relies heavily—or mostly—on the
+[technical aptitude](#Technical-aptitude) skill, but don't underestimate
+the impact of [curiosity](#Curiosity), [communication](#Communicate),
+[empathy](#Empathy), and [research](#Research).
 
+Technical writers have to learn the technology, product, or feature well
+enough to explain it to others. This often means interviewing engineers
+and then testing the product yourself in a sandbox environment by writing
+some code—perhaps with help from a SME. By going through this process,
+writers gain an understanding of what customers will experience and how
+to best explain it to them. We're often one of the first people using
+the feature, finding bugs, and working through development hiccups, which
+translate into the documentation we create.
 
 ## Write (TW)
+
 
 
   
