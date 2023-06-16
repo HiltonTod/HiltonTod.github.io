@@ -25,6 +25,24 @@ group of university students participating in Google's
 program, I thought it might be time to put a little more thought into it and write
 it down. Honestly, this article has been percolating in my mind for a while.
 
+# Bio
+
+When I attend or listen to a presentation, I'm always interested to know more
+about the speaker and, perhaps more importantly, whether I should trust the information
+and opinions they're presenting. Since this post is based on a presentation
+I gave to university students, I'm including my brief biography here.
+
+As of this writing (June 2023), I have seven years experience as a technical writer,
+and sixteen years before that as systems engineer, team lead, software engineer
+(developer), and software tester. Check out the following image for a few more details,
+including personal interests.
+
+<figure style="width: 400px" class="align-center">
+  <a href="/images/DayInLifeOfTW-slide01.png">
+  <img src="/images/DayInLifeOfTW-slide01.png" alt="Tod Hilton resume and short bio">
+  </a>
+</figure>
+
 # What is technical writing
 
 Before I describe the work of a technical writer or what their day might look like, let's
@@ -48,7 +66,7 @@ To break it down a bit further, technical writers spend much of their time doing
   <a href="/images/DayInLifeOfTW-slide02.png">
   <img src="/images/DayInLifeOfTW-slide02.png" alt="Technical writing is...helping people understand complex ideas and technology">
   </a>
-</figure> 
+</figure>
 
 # Skills of a technical writer
 
