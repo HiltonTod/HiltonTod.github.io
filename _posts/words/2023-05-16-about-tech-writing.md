@@ -70,8 +70,8 @@ To break it down a bit further, technical writers spend much of their time doing
 
 # Skills of a technical writer
 
-While I will describe a typical day in the life of a technical writer, I
-think it's useful to first share the skills that one uses in their job. One of the
+And one more interruption, if you don't mind, I think it's useful to first share the
+skills that a technical writer uses in their job. One of the
 main reasons I switched from software engineering to technical writing is because
 the skills I excelled at mapped to those most needed by technical writers.
 
