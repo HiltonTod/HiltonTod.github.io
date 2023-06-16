@@ -219,12 +219,20 @@ some code—perhaps with help from a SME. By going through this process,
 writers gain an understanding of what customers will experience and how
 to best explain it to them. We're often one of the first people using
 the feature, finding bugs, and working through development hiccups, which
-translate into the documentation we create.
+can translate into the documentation we create.
 
 ## Write (TW)
 
+This might be surprising, but writing the document—or document set—is often
+the last thing a technical writer does.
 
-
+Before we can begin writing, we need to gain a sufficient understanding of
+the technology and how to use it. During this initial timeframe, we'll
+begin planning and organizing the work in a [doc plan template](https://todhilton.com/technicalwriting/doc-plan-template/),
+based on estimates from collaborating with peers and stakeholders. As we
+write the documentation, we'll follow style guides, adhere to company and
+industry standards, and iterate frequently based on feedback and reviews
+from subject matter experts and other writers or editors.
   
 <figure style="width: 400px" class="align-center">
   <a href="/images/DayInLifeOfTW-slide04.png">
@@ -234,10 +242,38 @@ translate into the documentation we create.
 
 # Q&A
 
+Placeholder for answers to questions I've frequently been asked. Admittedly,
+technical writers either love or hate the FAQ section of any doc set, so I
+know I'm tempting fate by putting this here. :)
+
+<figure style="width: 400px" class="align-center">
+  <a href="/images/DayInLifeOfTW-slide05.png">
+  <img src="/images/DayInLifeOfTW-slide05.png" alt="Questions and answers.">
+  </a>
+</figure> 
+
+# Resources
+
+Here are some useful resources for learning more about technical writing.
+This list is far from exhaustive, as your favorite search engine will reflect
+when you ask "what is technical writing?"
+
+*   [Brief introduction to Technical Writing](https://www.stephaniemorillo.co/post/a-brief-introduction-to-technical-writing)
+*   [What is Technical Writing?](https://contentwriters.com/blog/what-is-technical-writing/)
+*   [Google's Technical Writing Courses](https://developers.google.com/tech-writing)
+*   [Becoming a Technical Writer (Google)](https://developers.google.com/tech-writing/becoming)
+*   [Write the Docs job board](https://jobs.writethedocs.org/)
+*   [Technical Writers @ U.S. Bureau of Statistics](https://www.bls.gov/ooh/media-and-communication/technical-writers.htm)
+
+<figure style="width: 400px" class="align-center">
+  <a href="/images/DayInLifeOfTW-slide06.png">
+  <img src="/images/DayInLifeOfTW-slide06.png" alt="Resources.">
+  </a>
+</figure> 
 
 # Presentation slides
 
-Meanwhile, here are the slides from a presentation I gave on May 17, 2023 to university students
+Here are the slides from a presentation I gave on May 17, 2023 to university students
 participating in Google's [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
 program. There are more explanations and resources listed in the speaker notes.
 
