@@ -171,23 +171,31 @@ way to improve is to practice, whether it's your jumpshot or how well you
 communicate with stakeholders. The more you do _it_, the easier it will be and
 the better you'll be at doing _it_. Practice and then practice some more!
 
-
-
-TODO
-_An aside..._ We're often advised to _do what we love_ when it comes to choosing a
-career, but I disagree with this sentiment. I prefer _do what you're good at_ and
-your joy from the work will follow. Spend time understanding your skills, which ones are
-strong or come to you more easily, and which ones your peers recognize and applaud.
-Then map those skills to an industry you want to WORDS GO HERE
-
-We each have strengths and weaknesses, things that seem to come
-easier than others, and understanding those allows us to choose a profession
-that maps to our strengths.
-/TODO
+<figure style="width: 400px" class="align-center">
+  <a href="/images/DayInLifeOfTW-slide03.png">
+  <img src="/images/DayInLifeOfTW-slide03.png" alt="Technical writing skills include communicate, collaborate, curiosity, empathy, planning, organization, research, technical aptitude, and practice.">
+  </a>
+</figure> 
 
 # Day in the life
 
+When I was an engineer and interested in switching disciplines, I asked a friend
+of mine who had 10 years of experience as a technical writer, "what do you do?"
 
+> About one-third of my time is spent doing program management work, another
+> third with engineering and testing work, and the remaining third is actually
+> writing docs.
+
+His answer has stuck with me all these years. It's practical, succinct, and accurate,
+especially for those of us in the software industry who are familiar with each
+of the disciplines. Technical writers spend their time collaborating, engineering,
+and writing.
+
+<figure style="width: 400px" class="align-center">
+  <a href="/images/DayInLifeOfTW-slide04.png">
+  <img src="/images/DayInLifeOfTW-slide04.png" alt="Day in the life of a (software) technical writer - Collaborate (PgM), Engineer (SWE), and Write (TW).">
+  </a>
+</figure> 
 
 # Q&A
 
