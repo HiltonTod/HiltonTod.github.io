@@ -150,7 +150,7 @@ agile when things went awry—which they often do.
 
 Here's a [doc plan template](https://todhilton.com/technicalwriting/doc-plan-template/)
 that I created for myself and use regularly, which combines aspects I liked
-from 5-6 other templates.
+from several other templates.
 
 ## Organization
 
