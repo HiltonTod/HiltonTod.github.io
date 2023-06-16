@@ -42,7 +42,7 @@ To break it down a bit further, technical writers spend much of their time doing
 *   Understanding how people will use those technologies
 *   Explaining them in useful ways for the audience
 
-<figure style="width: 400px" class="align-center">
+<figure style="width: 300px" class="align-center">
   <img src="/images/DayInLifeOfTW-slide02.png" alt="Technical writing is...helping people understand complex ideas and technology">
 </figure> 
 
