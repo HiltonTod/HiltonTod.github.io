@@ -182,15 +182,35 @@ the better you'll be at doing _it_. Practice and then practice some more!
 When I was an engineer and interested in switching disciplines, I asked a friend
 of mine who had 10 years of experience as a technical writer, "what do you do?"
 
-> About one-third of my time is spent doing program management work, another
-> third with engineering and testing work, and the remaining third is actually
-> writing docs.
+> About one-third of my time is spent doing program management work (PgM), another
+> third with engineering and testing work (SWE), and the remaining third is actually
+> writing docs (TW).
 
 His answer has stuck with me all these years. It's practical, succinct, and accurate,
 especially for those of us in the software industry who are familiar with each
 of the disciplines. Technical writers spend their time collaborating, engineering,
 and writing.
 
+## Collaborate (PgM)
+
+As previously described in the skills section, [collaboration](#Collaborate) is
+imperative to being successful as a technical writer. During a typical workday,
+that involves communicating openly and in a timely manner with the subject matter
+experts, stakeholders, and other writers about the project's status and any
+issues that arise. Technical writers work closely with engineers and subject
+matter experts to gain a certain level of understanding of the product or features.
+Like most, writers often have more requests and work than we can fit into a regular
+day or week, which requires us to prioritize and manage the workload with our
+peers and stakeholders.
+
+## Engineer (SWE)
+
+
+
+## Write (TW)
+
+
+  
 <figure style="width: 400px" class="align-center">
   <a href="/images/DayInLifeOfTW-slide04.png">
   <img src="/images/DayInLifeOfTW-slide04.png" alt="Day in the life of a (software) technical writer - Collaborate (PgM), Engineer (SWE), and Write (TW).">
