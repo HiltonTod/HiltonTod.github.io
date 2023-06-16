@@ -33,7 +33,7 @@ and opinions they're presenting. Since this post is based on a presentation
 I gave to university students, I'm including my brief biography here.
 
 As of this writing (June 2023), I have seven years experience as a technical writer,
-and sixteen years before that as systems engineer, team lead, software engineer
+and sixteen years before that as a systems engineer, team lead, software engineer
 (developer), and software tester. Check out the following image for a few more details,
 including personal interests.
 
