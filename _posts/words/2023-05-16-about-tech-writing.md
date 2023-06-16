@@ -249,7 +249,7 @@ the last thing a technical writer does.
 
 Before we can begin writing, we need to gain a sufficient understanding of
 the technology and how to use it. During this initial timeframe, we'll
-begin planning and organizing the work in a [doc plan template](https://todhilton.com/technicalwriting/doc-plan-template/),
+begin planning and organizing the work in a doc plan ([template](https://todhilton.com/technicalwriting/doc-plan-template/)),
 based on estimates from collaborating with peers and stakeholders. As we
 write the documentation, we'll follow style guides, adhere to company and
 industry standards, and iterate frequently based on feedback and reviews
