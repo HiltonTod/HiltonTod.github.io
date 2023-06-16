@@ -188,7 +188,7 @@ you can develop and improve your technical aptitude over time.
 While this isn't necessarily a skill, it's imperative that you build the
 habit of practicing the skills previously described. Like anything, the best
 way to improve is to practice, whether it's your jumpshot or how well you
-communicate with stakeholders. The more you do _it_, the easier it will be and
+communicate with stakeholders. The more you do _it_, the easier _it_ will be and
 the better you'll be at doing _it_. Practice and then practice some more!
 
 <figure style="width: 400px" class="align-center">
