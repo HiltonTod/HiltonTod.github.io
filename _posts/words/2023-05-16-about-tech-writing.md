@@ -294,7 +294,7 @@ when you ask "what is technical writing?"
 
 # Presentation slides
 
-Here are the slides from a presentation I gave on May 17, 2023 to university students
+Here are the slides from the presentation I gave on May 17, 2023 to university students
 participating in Google's [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
 program. There are more explanations and resources listed in the speaker notes.
 
