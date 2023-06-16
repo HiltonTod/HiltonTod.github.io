@@ -128,8 +128,42 @@ from 5-6 other templates.
 
 ## Organization
 
-This is the "work the plan" portion of the previous quote.
+This is the _work the plan_ portion of the previous quote. Similar to having a
+plan, being organized allows you to focus on doing the tasks, creating the content,
+and coordinating everything. Being organized also applies to your communication
+with peers, partners, and stakeholders. Keeping up with and staying on top
+of collaborative efforts with different people is challenging even when you're
+organized. Without being organized, you're back to herding cats.
 
+## Research
+
+Akin to curiosity, research is a skill directly associated with a technical
+writer's ability to learn technologies. Knowing where to find the answers
+you need or who to ask for help drastically improves the efficiency of our
+time. Research takes time, and that's expected to lead you down unintentional
+or unproductive pathways at times, but you want to minimize those occurrences.
+Having said that, sometimes those unexpected paths are the ones that yield
+the most productive results...so don't arbitrarily limit your exploration.
+
+## Technical aptitude
+
+Although this skill is towards the end of the list, it's extremely important.
+Let me be clear, I'm **not** referring to an ingrained talent to understand
+technology, where you must be someone who _just gets it_. I firmly believe
+that technical aptitude is a skill we can develop through curiosity, research,
+exposure, and practice. Get in there with the product, feature, or technology,
+do your best to understand it, and play around with it enough to build a
+familiarity. Once you've done that, parts of what you learn will apply to other
+technologies and help you learn them faster and more efficiently. Doing this,
+you can develop and improve your technical aptitude over time.
+
+## Practice, practice, practice
+
+While this isn't necessarily a skill, it's imperative that you build the
+habit of practicing the skills previously described. Like anything, the best
+way to improve is to practice, whether it's your jumpshot or how well you
+communicate with stakeholders. The more you do _it_, the easier it will be and
+the better you'll be at doing _it_. Practice and then practice some more!
 
 
 
