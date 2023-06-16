@@ -43,7 +43,7 @@ To break it down a bit further, technical writers spend much of their time doing
 *   Explaining them in useful ways for the audience
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/DayInLifeOfTW-slide02.png" alt="Technical writing is...helping people understand complex ideas and technology">
+  <img src="/images/DayInLifeOfTW-slide02.png" alt="Technical writing is...helping people understand complex ideas and technology">
 </figure> 
 
 [![Technical writing is...helping people understand complex ideas and technology](/images/DayInLifeOfTW-slide02.png "Technical writing is...helping people understand complex ideas and technology"){: .align-right }](/images/DayInLifeOfTW-slide02.png)
