@@ -17,25 +17,31 @@ toc: true
 toc_label: "Technical writing"
 ---
 
-I'm often asked "what does a technical writer do?" I usually respond by describing
+I'm often asked "what does a technical writer do?" and I usually respond by describing
 where I work, the goals of my projects, the kind of work they entail, and how I spend
 my time. But when I was asked to spend an hour discussing technical writing with a
 group of university students participating in Google's
 [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
 program, I thought it might be time to put a little more thought into it and write
-it down. Honestly, this article has been percolating in my mind for a while.
+it down. Honestly, this article has been percolating in my mind for quite some time.
+
+These are my thoughts and opinions based on my years of experience as a tech writer.
+Other writers are going to have different experiences and opinions, which I recommend
+that you search out and read to give you a well-rounded understanding of the discipline.
 
 # Bio
 
-When I attend or listen to a presentation, I'm always interested to know more
-about the speaker and, perhaps more importantly, whether I should trust the information
-and opinions they're presenting. Since this post is based on a presentation
-I gave to university students, I'm including my brief biography here.
+When I attend or listen to a presentation, I'm always interested to know more about the
+speaker and enjoy hearing a bit about their experiences. Since this article is based on
+a presentation I gave to university students, I'm including my biography slide with a
+few more details, including personal interests.
 
 As of this writing (June 2023), I have seven years experience as a technical writer,
 and sixteen years before that as a systems engineer, team lead, software engineer
-(developer), and software tester. Check out the following image for a few more details,
-including personal interests.
+(developer), and software tester. My bachelors degree is in Accounting, which I
+practiced for a few years before realizing it wasn't for me and switched to the
+information technology (IT) field—this was inspired by my brother who had recently
+left the U.S. Navy and began his career in IT. 
 
 <figure style="width: 400px" class="align-center">
   <a href="/images/DayInLifeOfTW-slide01.png">
