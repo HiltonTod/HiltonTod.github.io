@@ -28,6 +28,8 @@ it down. Honestly, this article has been percolating in my mind for quite some t
 These are my thoughts and opinions based on my years of experience as a tech writer.
 Other writers are going to have different experiences and opinions, which I recommend
 that you search out and read to give you a well-rounded understanding of the discipline.
+You probably won't be surprised to discover that each of us has a slightly—sometimes
+drastically—different perspective, but every one of them is valid and informative.
 
 > We keep moving forward, opening new doors and doing new things because we're
 > curious and curiosity keeps leading us down new paths. ~Walt Disney
@@ -370,9 +372,9 @@ Here are the slides from the presentation I gave on May 17, 2023 to university s
 participating in Google's [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
 program. There are more explanations and resources listed in the speaker notes. 
 
-A big heartfelt thank you to the Tech Exchange participants who attended my presentation!
-I appreciate you taking the time out of your busy conference schedule to listen to me
-talk about this career discipline that I thoroughly enjoy—and enjoy talking about.
+A big heartfelt thank you to those who attended my presentation! I appreciate you
+taking the time out of your busy conference schedule to listen to me talk about
+technical writing, a discipline that I thoroughly enjoy—and enjoy talking about.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTFjolEtPJNLUob0BfE8nV9NXmuueUSFydXhIGSz9ZVhPSilZ5JZNYEnoTdGx0iZcHYmwoNCe9yvfD/embed?start=true&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
