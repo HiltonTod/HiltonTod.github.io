@@ -123,6 +123,9 @@ and more.
 When we collaborate with different disciplines across multiple teams, the strength
 and effectiveness of those relationships have a large impact on the projects.
 
+> Collaboration depends on consideration. You have to extend your hand to the
+> person you're working with. ~Dave Grohl (Off Camera with Sam Jones)
+
 ## Curiosity
 
 While some might describe curiosity as a personal characteristic, I think it's
@@ -278,23 +281,42 @@ to be seen by the readers.
 
 When I finished my presentation to the [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
 participants, I asked for feedback from a friend and co-worker of mine who attended.
+They were a fellow technical writer at Google for 3 of my years with Cloud and
+said they missed hearing what I like about being a tech writer.
 
 > I like writing. I like technology. Putting the two together was a no-brainer
 > that took me 16 years to figure out.
+
+First and foremost, the people are my favorite part of being a technical writer.
+In my experience, the discipline seems to attract 
 
 WORDS GO HERE
 
 # Q&A
 
-Placeholder for answers to questions I've frequently been asked. Admittedly,
-technical writers either love or hate the FAQ section of any doc set, so I
-know I'm tempting fate by putting this here. :)
+Answers to questions I've frequently been asked about technical writing. Admittedly,
+technical writers either love or hate the FAQ section of any doc set, so I know I'm
+tempting fate by putting this here. :)
+
+## How can I transition into technical writing?
+
+## How can I get more technical writing experience?
+
+## How can I build a writing portfolio?
+
+## What should I include in my technical writing portfolio?
 
 ## What can engineers do to work better with tech writers?
+
+## How does technical writing differ from the documentation work done by engineers?
 
 ## Do I need to know how to code?
 
 ## How does engineering differ from technical writing?
+
+## How can I improve my writing skills?
+
+<!-- https://www.facebook.com/groups/926549627483994/?post_id=1212004558938498 -->
 
 _Here are a few fun personal questions from the presentation's attendees._
 
@@ -319,17 +341,22 @@ and [Fables](https://www.goodreads.com/series/54621-fables-the-deluxe-edition) (
 
 # Resources
 
-Here are some useful resources for learning more about technical writing.
+The following are some useful resources for learning more about technical writing.
 This list is far from exhaustive, as your favorite search engine will reflect
-when you ask "what is technical writing?"
+when you ask questions such as "what is technical writing?" or "how to become
+a technical writer?"
 
-*   [Brief introduction to Technical Writing](https://www.stephaniemorillo.co/post/a-brief-introduction-to-technical-writing)
-*   [What is Technical Writing?](https://contentwriters.com/blog/what-is-technical-writing/)
-*   [Google's Technical Writing Courses](https://developers.google.com/tech-writing)
-*   [Becoming a Technical Writer (Google)](https://developers.google.com/tech-writing/becoming)
-*   [Write the Docs job board](https://jobs.writethedocs.org/)
-*   [Technical Writers @ U.S. Bureau of Statistics](https://www.bls.gov/ooh/media-and-communication/technical-writers.htm)
-*   [Doc plan template](https://todhilton.com/technicalwriting/doc-plan-template/)
+*   [Article] [Brief introduction to Technical Writing](https://www.stephaniemorillo.co/post/a-brief-introduction-to-technical-writing)
+*   [Article] [What is Technical Writing?](https://contentwriters.com/blog/what-is-technical-writing/)
+*   [Article] [Becoming a Technical Writer (Google)](https://developers.google.com/tech-writing/becoming)
+*   [Book] [Modern Technical Writing: An Introduction to Software Documentation](https://www.goodreads.com/book/show/28433138-modern-technical-writing), by [Andrew Etter](https://andyetter.com/)
+*   [Book] [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well), by William Zinsser
+*   [Blog] [FFeathers](https://ffeathers.wordpress.com/), by Sarah Maddox
+*   [Blog] [I'd Rather Be Writing](https://idratherbewriting.com/), by Tom Johnson
+*   [Course] [Google's Technical Writing Courses](https://developers.google.com/tech-writing)
+*   [Jobs] [Write the Docs job board](https://jobs.writethedocs.org/)
+*   [Salary] [Technical Writers @ U.S. Bureau of Statistics](https://www.bls.gov/ooh/media-and-communication/technical-writers.htm)
+*   [Tool] [Doc plan template](https://todhilton.com/technicalwriting/doc-plan-template/)
 
 <figure style="width: 400px" class="align-center">
   <a href="/images/DayInLifeOfTW-slide06.png">
@@ -341,7 +368,11 @@ when you ask "what is technical writing?"
 
 Here are the slides from the presentation I gave on May 17, 2023 to university students
 participating in Google's [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
-program. There are more explanations and resources listed in the speaker notes.
+program. There are more explanations and resources listed in the speaker notes. 
+
+A big heartfelt thank you to the Tech Exchange participants who attended my presentation!
+I appreciate you taking the time out of your busy conference schedule to listen to me
+talk about this career discipline that I thoroughly enjoy—and enjoy talking about.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTFjolEtPJNLUob0BfE8nV9NXmuueUSFydXhIGSz9ZVhPSilZ5JZNYEnoTdGx0iZcHYmwoNCe9yvfD/embed?start=true&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
