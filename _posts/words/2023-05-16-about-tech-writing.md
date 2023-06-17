@@ -310,7 +310,7 @@ motivated by helping people.
 There are so many good ones, but narrowing it down to a few, I'd callout
 [Saga](https://www.goodreads.com/series/146415-saga) (by Brian K. Vaughan & Fiona Staples),
 [Monstress](https://www.goodreads.com/series/178016-monstress) (by Marjorie M. Liu & Sana Takeda),
-and [Fables][https://www.goodreads.com/series/54621-fables-the-deluxe-edition) (by Bill Willingham).
+and [Fables](https://www.goodreads.com/series/54621-fables-the-deluxe-edition) (by Bill Willingham).
 
 <figure style="width: 400px" class="align-center">
   <a href="/images/DayInLifeOfTW-slide05.png">
