@@ -307,7 +307,7 @@ motivated by helping people.
 
 ## What's your favorite comic book series?
 
-There are so many good ones, but narrowing it down to a few, I'd callout
+There are so many good ones, but narrowing it down to a few I'd callout
 [Saga](https://www.goodreads.com/series/146415-saga) (by Brian K. Vaughan & Fiona Staples),
 [Monstress](https://www.goodreads.com/series/178016-monstress) (by Marjorie M. Liu & Sana Takeda),
 and [Fables](https://www.goodreads.com/series/54621-fables-the-deluxe-edition) (by Bill Willingham).
