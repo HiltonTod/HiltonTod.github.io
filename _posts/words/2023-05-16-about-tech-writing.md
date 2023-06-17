@@ -76,10 +76,8 @@ To break it down a bit further, technical writers spend much of their time doing
 
 # Skills of a technical writer
 
-And one more interruption, if you don't mind, I think it's useful to first share the
-skills that a technical writer uses in their job. One of the
-main reasons I switched from software engineering to technical writing is because
-the skills I excelled at mapped to those most needed by technical writers.
+One of the main reasons I switched from software engineering to technical writing is
+because the skills I excelled at mapped to those most needed by technical writers.
 
 *   **Communicate** - It's not just about the writing, although that is important
 *   **Collaborate** - With people and teams across different disciplines (engineering,
@@ -118,9 +116,8 @@ know features' status and release dates, user experience writers (UXW) to
 synchronize the technical documentation with the product labels and descriptions,
 and more.
 
-When we are collaborating with different disciplines across multiple teams,
-the strength and effectiveness of those collaborative relationships have a
-large impact on the projects.
+When we collaborate with different disciplines across multiple teams, the strength
+and effectiveness of those relationships have a large impact on the projects.
 
 ## Curiosity
 
