@@ -29,6 +29,9 @@ These are my thoughts and opinions based on my years of experience as a tech wri
 Other writers are going to have different experiences and opinions, which I recommend
 that you search out and read to give you a well-rounded understanding of the discipline.
 
+> We keep moving forward, opening new doors and doing new things because we're
+> curious and curiosity keeps leading us down new paths. ~Walt Disney
+
 # Bio
 
 When I attend or listen to a presentation, I'm always interested to know more about the
@@ -127,8 +130,10 @@ also a skill that you can explicitly develop. The drive to understand how
 something works can come from an interest in the subject matter, or it can come
 from a prescribed expectation that you need to learn about something before
 you can use it. Regardless of the reasoning, being curious serves a technical
-writer well. When you're curious, you ask questions until you understand the
-answers and that's key to successfully explaining complex technologies.
+writer well.
+
+When you're curious, you ask questions until you understand the answers and
+that's key to successfully explaining complex technologies.
 
 ## Empathy
 
@@ -149,8 +154,8 @@ coordinating them, instead of figuring out what they are as you go.
 
 I've worked through documentation projects both ways, with and without a plan.
 Creating a plan ahead of time forced me to think through the goals, non-goals,
-audience, use cases, architecture, tasks, and timelines, allowing me to be more
-agile when things went awry—which they often do.
+audience, use cases, architecture, tasks, timelines, and more, allowing me to
+be more agile when things went awry—which they often do.
 
 Here's a [doc plan template](https://todhilton.com/technicalwriting/doc-plan-template/)
 that I created for myself and use regularly, which combines aspects I liked
@@ -207,13 +212,13 @@ When I was an engineer and interested in switching disciplines, I asked a friend
 of mine who had 10 years of experience as a technical writer, "what do you do?"
 Here's their answer:
 
-> About one-third of my time is spent doing program management work (PgM), another
-> third with engineering and testing work (SWE), and the remaining third is actually
+> About one-third of my time is spent doing program management (PgM) work, another
+> third with engineering (SWE) and testing work, and the remaining third is actually
 > writing docs (TW).
 
-This description has stuck with me all these years. It's practical, succinct, and accurate,
-especially for those of us in the software industry who are familiar with each
-of the disciplines. Technical writers spend their time collaborating, engineering,
+Their description has stuck with me all these years. It's practical, succinct, and
+accurate, especially for those of us in the software industry who are familiar with
+each of the disciplines. Technical writers spend their time collaborating, engineering,
 and writing.
 
 ## Collaborate (PgM)
@@ -232,8 +237,8 @@ our peers and stakeholders.
 
 ## Engineer (SWE)
 
-You might think that this functionality relies heavily—or mostly—on the
-[technical aptitude](#Technical-aptitude) skill, but don't underestimate
+You might think that this functionality relies heavily—or even mostly—on
+the [technical aptitude](#Technical-aptitude) skill, but don't underestimate
 the impact of [curiosity](#Curiosity), [communication](#Communicate),
 [empathy](#Empathy), and [research](#Research).
 
@@ -248,8 +253,8 @@ can translate into the documentation we create.
 
 ## Write (TW)
 
-This might be surprising, but writing the document—or document set—is often
-the last thing a technical writer does.
+This might be surprising, but writing the document—or documentation set—is
+often the last thing a technical writer does.
 
 Before we can begin writing, we need to gain a sufficient understanding of
 the technology and how to use it. During this initial timeframe, we'll
@@ -258,18 +263,54 @@ based on estimates from collaborating with peers and stakeholders. As we
 write the documentation, we'll follow style guides, adhere to company and
 industry standards, and iterate frequently based on feedback and reviews
 from subject matter experts and other writers or editors.
+
+The documentation we publish is the tip of the iceberg, with the program
+management, engineering, and much of the writing underneath the water, never
+to be seen by the readers.
   
 <figure style="width: 400px" class="align-center">
   <a href="/images/DayInLifeOfTW-slide04.png">
   <img src="/images/DayInLifeOfTW-slide04.png" alt="Day in the life of a (software) technical writer - Collaborate (PgM), Engineer (SWE), and Write (TW).">
   </a>
-</figure> 
+</figure>
+
+# What I like about technical writing
+
+When I finished my presentation to the [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
+participants, a peer of mine provided me much appreciated feedback. They
+wanted to hear more about why I enjoy technical writing.
+
+> I like writing. I like technology. Putting the two together was a no-brainer
+> that took me 16 years to figure out.
+
+WORDS GO HERE
 
 # Q&A
 
 Placeholder for answers to questions I've frequently been asked. Admittedly,
 technical writers either love or hate the FAQ section of any doc set, so I
 know I'm tempting fate by putting this here. :)
+
+## What can engineers do to work better with tech writers?
+
+## Do I need to know how to code?
+
+## How does engineering differ from technical writing?
+
+_Here are a few fun personal questions from the presentation's attendees._
+
+## Who's your favorite superhero?
+
+Spiderman! Since I was a little kid, I've loved his ability to go anywhere
+he wants with his bare hands and feet **and** that he was a nerdy teenager
+motivated by helping people.
+
+## What's your favorite comic book series?
+
+There are so many good ones, but narrowing it down to a few, I'd callout
+[Saga](https://www.goodreads.com/series/146415-saga) (by Brian K. Vaughan & Fiona Staples),
+[Monstress](https://www.goodreads.com/series/178016-monstress) (by Marjorie M. Liu & Sana Takeda),
+and [Fables][https://www.goodreads.com/series/54621-fables-the-deluxe-edition) (by Bill Willingham).
 
 <figure style="width: 400px" class="align-center">
   <a href="/images/DayInLifeOfTW-slide05.png">
@@ -289,6 +330,7 @@ when you ask "what is technical writing?"
 *   [Becoming a Technical Writer (Google)](https://developers.google.com/tech-writing/becoming)
 *   [Write the Docs job board](https://jobs.writethedocs.org/)
 *   [Technical Writers @ U.S. Bureau of Statistics](https://www.bls.gov/ooh/media-and-communication/technical-writers.htm)
+*   [Doc plan template](https://todhilton.com/technicalwriting/doc-plan-template/)
 
 <figure style="width: 400px" class="align-center">
   <a href="/images/DayInLifeOfTW-slide06.png">
