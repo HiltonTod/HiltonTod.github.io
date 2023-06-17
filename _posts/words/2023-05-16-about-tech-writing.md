@@ -35,9 +35,9 @@ that you search out and read to give you a well-rounded understanding of the dis
 # Bio
 
 When I attend or listen to a presentation, I'm always interested to know more about the
-speaker and enjoy hearing a bit about their experiences. Since this article is based on
-a presentation I gave to university students, I'm including my biography slide with a
-few more details, including personal interests.
+speaker and their experiences. Since this article is based on a presentation I gave to
+university students, I'm including my biography slide with a few more details, including
+some personal interests.
 
 As of this writing (June 2023), I have seven years experience as a technical writer,
 and sixteen years before that as a systems engineer, team lead, software engineer
