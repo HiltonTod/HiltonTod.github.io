@@ -325,8 +325,9 @@ _Here are a few fun personal questions from the presentation's attendees._
 ## Who's your favorite superhero?
 
 Spiderman! Since I was a little kid, I've loved his ability to go anywhere
-he wants with his bare hands and feet **and** that he was a nerdy teenager
-motivated by helping people.
+he wants using his bare hands and feet. As I grew older and better understood
+his story, I loved that he was a nerdy teenager with an altruistic desire to
+help people.
 
 ## What's your favorite comic book series?
 
