@@ -277,8 +277,7 @@ to be seen by the readers.
 # What I like about technical writing
 
 When I finished my presentation to the [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
-participants, a peer of mine provided me much appreciated feedback. They
-wanted to hear more about why I enjoy technical writing.
+participants, I asked for feedback from a friend and co-worker of mine who attended.
 
 > I like writing. I like technology. Putting the two together was a no-brainer
 > that took me 16 years to figure out.
