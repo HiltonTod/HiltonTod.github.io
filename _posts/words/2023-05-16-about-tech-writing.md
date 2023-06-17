@@ -77,7 +77,8 @@ To break it down a bit further, technical writers spend much of their time doing
 # Skills of a technical writer
 
 One of the main reasons I switched from software engineering to technical writing is
-because the skills I excelled at mapped to those most needed by technical writers.
+because the skills I excelled at—and enjoyed—mapped to those most needed by technical
+writers.
 
 *   **Communicate** - It's not just about the writing, although that is important
 *   **Collaborate** - With people and teams across different disciplines (engineering,
