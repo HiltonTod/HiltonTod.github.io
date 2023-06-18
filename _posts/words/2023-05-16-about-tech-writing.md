@@ -344,11 +344,11 @@ them on your resume and during interviews.
 When creating your portfolio, determine if the documents you've created at your
 current role can be shared publicly and, if so, include them.
 
-You can take a certification course, such as the
-[Technical Writing Certificate Program](https://www.tomboloinstitute.com/courses/technical-writing/technical-writing-certificate-program/)
-at the Tombolo Institute at Bellevue College, the
-[UW Certificate in Professional Technical Writing](https://www.pce.uw.edu/certificates/professional-technical-writing),
-or [UC Berkeley Certificate in Technical Communication](https://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=17211).
+You can take a certification course, such as the following.
+*   [Technical Writing Certificate Program](https://www.tomboloinstitute.com/courses/technical-writing/technical-writing-certificate-program/)
+at the Tombolo Institute at Bellevue College
+*   [UW Certificate in Professional Technical Writing](https://www.pce.uw.edu/certificates/professional-technical-writing)
+*   [UC Berkeley Certificate in Technical Communication](https://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=17211).
 
 ## How can I get experience writing technical docs?
 
