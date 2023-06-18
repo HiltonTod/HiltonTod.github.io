@@ -424,23 +424,6 @@ while keeping them to the point. I recommend that you include the following.
  
 You can view my portfolio at [todhilton.com/technicalwriting](https://todhilton.com/technicalwriting/).
 
-## How can I get experience writing technical docs?
-
-If you're transitioning from an existing role or job, see
-[How can I transition into technical writing?](#how-can-I-transition-into-technical-writing).
-
-If you don't have opportunities to write in your existing role, I recommend
-reviewing the suggestions in
-[How can I build a writing portfolio?](#how-can-i-build-a-writing-portfolio).
-
-## What can engineers do to work better with tech writers?
-
-## How does technical writing differ from the documentation work done by engineers?
-
-## Do I need to know how to code?
-
-## How does engineering differ from technical writing?
-
 ## How can I improve my writing skills?
 
 Practice, practice, practice! And while you're practicing, do the following.
@@ -457,6 +440,23 @@ Practice, practice, practice! And while you're practicing, do the following.
     the [Write the Docs](https://www.writethedocs.org/) communities.
 *   Read your documents out loud. This might sound silly, but it's helpful
     when self-editing and trying to maintain a conversational tone.
+
+## How can I get experience writing technical docs?
+
+If you're transitioning from an existing role or job, see
+[How can I transition into technical writing?](#how-can-I-transition-into-technical-writing).
+
+If you don't have opportunities to write in your existing role, I recommend
+reviewing the suggestions in
+[How can I build a writing portfolio?](#how-can-i-build-a-writing-portfolio).
+
+## Do I need to know how to code?
+
+## What can engineers do to work better with tech writers?
+
+## How does technical writing differ from the documentation work done by engineers?
+
+## How does engineering differ from technical writing?
 
 <!-- https://www.facebook.com/groups/926549627483994/?post_id=1212004558938498 -->
 
