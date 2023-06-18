@@ -106,10 +106,18 @@ Now that you've read the list, let's go into a bit more detail about each of the
 As a philosophical-minded person, I feel strongly that communication is the
 key to just about everything in life. If you consider your relationships, personal
 or professional, their quality often hinges on how well the two of you communicate.
-Communication is a skill—or set of skills—that can be learned, practiced, and
-improved. Although we're writers by title and trade, technical writers need to
-be able to communicate effectively across job disciplines, teams, and even companies,
-using all the methods available to us.
+
+Communication is about more than words on a page and that's what makes it so
+important for everyone, not only technical writers. It's a skill—or set of
+skills—that can be learned, practiced, and improved. State your message clearly
+and succinctly, while understanding your audience's perspective and preferences,
+and do so in a timely manner depending on the situation. Those are merely the
+basics of effective communication. 
+
+Although we're writers by title and trade, technical writers need to be able to
+communicate effectively across job disciplines, teams, and even companies, using
+all the methods available to us.
+
 
 ## Collaborate
 
