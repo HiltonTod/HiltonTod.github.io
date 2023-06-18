@@ -298,18 +298,18 @@ about my motivation.
 First and foremost, the people are my favorite part of being a technical writer.
 Honestly, I can say this about each position in my career, but, admittedly,
 I feel a special connection with other writers, moreso than I did with engineers.
-They typically value the skills that I previously outlined, often come from
+Writers typically value the skills that I previously outlined, often come from
 unexpected professional backgrounds, encompass diverse personal life experiences,
 and share a love for learning.
 
 > Always be learning
 
 Combining my curiosity with a job where I'm expected to learn new things is a
-recipe for fun. While they call it work and not play for a reason, I sincerely
-enjoy digging into something new and trying to understand it as best I can.
-On a personal note, my curiosity and love of learning is one of the reasons I'm
-an avid reader, which I strongly believe contributes to my success as a technical
-writer.
+recipe for fun. While they call it work and not play for a reason—a phrase often
+heard from my dad—I sincerely enjoy digging into something new and trying to
+understand it as best I can. On a personal note, my curiosity and love of learning
+is one of the reasons I'm an avid reader, which I strongly believe contributes to
+my success as a technical writer.
 
 > Not all readers are leaders, but all leaders are readers. ~Harry S. Truman
 
@@ -318,6 +318,29 @@ I like knowing that my work helps someone get through a tough moment of their
 code failing or providing that ah-ha moment when they finally understand a
 complext concept. While it might not necessarily fit into the category of fun,
 it's very rewarding and a large part of my motivation.
+
+_**Aside:** Discussing what I like about technical writing brings up the concept
+of how we feel about our work and here's my personal theory on job satisfaction._
+
+> To experience joy in your work, focus on the skills you enjoy and building your
+> proficiency with them.
+
+I prefer this philosophy to the advice we hear so often to _do what you love_, and
+here's why:
+
+*   The word _love_ has significant weight to it and can have a powerful impact
+    on our emotional health. Attaching _love_ to our work can create emotional
+    highs and lows that we have little control over and affect our work-life balance.
+*   By focusing on our skills, learning, and improving them, we intrinsicly find joy
+    in our behavior and accomplishments. Research over the last few decades has proven
+    that this is a sustainable way to feel joy, instead of pursuing the ambiguous
+    idea of happiness.
+*   Words matter. I prefer to focus on joy instead of happiness. Joy is an inner
+    feeling—usually associated with meaning or purpose—whereas happiness is an emotion.
+    Joy can be constant, while happiness is temporary. 
+*   Pragmatically speaking, skills are transferable between jobs, making role transitions
+    more accessible to you over the length of your career. By focusing on your skills,
+    you can identify where they apply to all kinds of different jobs and industries.
 
 # Q&A
 
