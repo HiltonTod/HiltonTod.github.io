@@ -271,12 +271,12 @@ the technology and how to use it. During this initial timeframe, we'll
 begin planning and organizing the work in a doc plan ([template](https://todhilton.com/technicalwriting/doc-plan-template/)),
 based on estimates from collaborating with peers and stakeholders. As we
 write the documentation, we'll follow style guides, adhere to company and
-industry standards, and iterate frequently based on feedback and reviews
-from subject matter experts and other writers or editors.
+industry standards, and iterate on the content frequently based on feedback
+and reviews from subject matter experts and other writers or editors.
 
 The documentation we publish is the tip of the iceberg, with the program
-management, engineering, and much of the writing underneath the water, never
-to be seen by the readers.
+management, engineering, and much of the writing work underneath the
+metaphorical water, never to be seen by the readers.
   
 <figure style="width: 400px" class="align-center">
   <a href="/images/DayInLifeOfTW-slide04.png">
