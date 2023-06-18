@@ -341,9 +341,9 @@ here's why:
     feeling—usually associated with meaning or purpose—whereas happiness is an emotion.
     Joy can be constant, while happiness is temporary. 
 *   Pragmatically speaking, skills are transferable between jobs, making role transitions
-    more accessible to you over the length of your career. By focusing on your skills,
-    you can identify where they apply to all kinds of different jobs and industries,
-    which opens up a world of opportunities.
+    more accessible to you over the length of your career. By focusing on your
+    skills—especially the ones you enjoy—you can identify where they apply to all
+    kinds of different jobs and industries, which opens up a world of opportunities.
 
 # Q&A
 
