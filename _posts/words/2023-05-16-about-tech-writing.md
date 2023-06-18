@@ -248,9 +248,9 @@ our peers and stakeholders.
 ## Engineer (SWE)
 
 You might think that this functionality relies heavily—or even mostly—on
-the [technical aptitude](#Technical-aptitude) skill, but don't underestimate
-the impact of [curiosity](#Curiosity), [communication](#Communicate),
-[empathy](#Empathy), and [research](#Research).
+the [technical aptitude](#technical-aptitude) skill, but don't underestimate
+the impact of [curiosity](#curiosity), [communication](#communicate),
+[empathy](#empathy), and [research](#research).
 
 Technical writers have to learn the technology, product, or feature well
 enough to explain it to others. This often means interviewing engineers
@@ -327,17 +327,24 @@ tempting fate by putting this here. :)
 
 ## How can I transition into technical writing?
 
+*   Get writing experience whereever you can, preferably on-the-job
+*   Create a writing portfolio
+*   Take a certification course
+
 Find opportunities in your current position, job, or company to write documentation
 and gain some experience while creating a portfolio. While doing so, be sure
 to follow the suggestions in
-[How can I improve my writing skills?](#How-can-I-improve-my-writing-skills).
+[How can I improve my writing skills?](#how-can-I-improve-my-writing-skills).
 
-Review the [skills of a technical writer](#Skills-of-a-technical-writer) and
+Review the [skills of a technical writer](#skills-of-a-technical-writer) and
 think about how you demonstrate them in your current role. Try to increase the
 areas of your day-to-day work that uses these skills so that you can speak to
 them on your resume and during interviews.
 
-Take a certification course, such as the
+When creating your portfolio, determine if the documents you've created at your
+current role can be shared publicly and, if so, include them.
+
+You can take a certification course, such as the
 [Technical Writing Certificate Program](https://www.tomboloinstitute.com/courses/technical-writing/technical-writing-certificate-program/)
 at the Tombolo Institute at Bellevue College, the
 [UW Certificate in Professional Technical Writing](https://www.pce.uw.edu/certificates/professional-technical-writing),
@@ -345,7 +352,35 @@ or [UC Berkeley Certificate in Technical Communication](https://extension.berkel
 
 ## How can I get experience writing technical docs?
 
+If you're transitioning from an existing role or job, see
+[How can I transition into technical writing?](#how-can-I-transition-into-technical-writing).
+
+If you don't have opportunities to write in your existing role, I recommend the following.
+
+*   WORDS GO HERE
+
 ## How can I build a writing portfolio?
+
+## What should I include in my portfolio?
+
+More isn't necessarily better. A reviewer or recruiter will have limited time
+to review your portfolio, so you want to present the breadth of your experience
+while keeping them to the point. I recommend that you include the following.
+
+*   3-5 documents
+*   Each document should be 5-10 pages in length
+*   The set should include 2-3 of the following types of documents (with at least
+    one or two of the ones recommended):
+    *   [Recommend] How-to - a task-based set of instructions that arrive at a clear goal
+    *   [Recommend] Conceptual - explains a technology
+    *   [Recommend] Tutorial - how to complete a task from start to finish with guaranteed success 
+    *   API library - how to use an API with a client library
+    *   Best practices - provide recommendations for a common customer goal
+    *   Quickstart - guidelines for creating or doing something new quickly
+    *   Bulletin - an issue that needs to be publicized to customers or stakeholders
+    *   Troubleshooting - guidelines for how to deal with a specific problem or issue
+ 
+You can view my portfolio at [todhilton.com/technicalwriting](/technicalwriting/).
 
 ## What should I include in my technical writing portfolio?
 
@@ -364,6 +399,9 @@ Practice, practice, practice! And while you're practicing, do the following.
 *   Familiarize yourself with industry best practices for things like grammar,
     punctuation, capitalization, formatting, abbreviations, accessibility,
     localization, and more.
+*   Keep your writing clear, succinct, accurate, and use a conversational tone.
+    Avoid wordy prose and making the tone too informal or formal, find a nice
+    middle ground.
 *   Understand how to follow a style guide, such as the
     [Google developer documentation style guide](https://developers.google.com/style).
 *   Discuss writing with other writers and editors. For example, check out
