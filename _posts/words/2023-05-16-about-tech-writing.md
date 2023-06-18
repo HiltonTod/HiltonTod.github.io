@@ -380,7 +380,7 @@ while keeping them to the point. I recommend that you include the following.
     *   Bulletin - an issue that needs to be publicized to customers or stakeholders
     *   Troubleshooting - guidelines for how to deal with a specific problem or issue
  
-You can view my portfolio at [todhilton.com/technicalwriting](/technicalwriting/).
+You can view my portfolio at [todhilton.com/technicalwriting](https://todhilton.com/technicalwriting/).
 
 ## What should I include in my technical writing portfolio?
 
