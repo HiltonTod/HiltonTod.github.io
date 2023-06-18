@@ -408,9 +408,9 @@ at the Tombolo Institute at Bellevue College
 
 More isn't necessarily better. A reviewer or recruiter will have limited time
 to review your portfolio, so you want to present the breadth of your experience
-while keeping them to the point. I recommend that you include the following.
+while keeping them to the point. I recommend the following.
 
-*   3-5 documents
+*   Provide 3-5 documents
 *   Each document should be 5-10 pages in length
 *   The set should include 2-3 of the following types of documents (with at least
     one or two of the ones recommended):
