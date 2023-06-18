@@ -287,7 +287,7 @@ to be seen by the readers.
 # What I like about technical writing
 
 When I finished my presentation to the [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
-participants, I asked for feedback from a friend and fellow Cloud tech writer who
+participants, I asked for feedback from a friend and fellow tech writer who
 attended. They advised me to include what I like about technical writing and what
 makes it fun, as we'd previously discussed, to help the audience understand more
 about my motivation.
@@ -314,8 +314,6 @@ I like knowing that my work helps someone get through a tough moment of their
 code failing or providing that ah-ha moment when they finally understand a
 complext concept. While it might not necessarily fit into the category of fun,
 it is very rewarding and is a large part of my motivation.
-
-WORDS GO HERE
 
 # Q&A
 
