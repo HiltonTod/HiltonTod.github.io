@@ -218,7 +218,7 @@ the better you'll be at doing _it_. Practice and then practice some more!
 
 # Day in the life
 
-When I was an engineer and interested in switching disciplines in 2015, I asked a
+When I was an engineer and interested in switching disciplines, I asked a
 friend who had 10 years of experience as a technical writer, "what do you do?"
 Here's their answer:
 
