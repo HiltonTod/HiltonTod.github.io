@@ -317,7 +317,7 @@ It wasn't until later in my career that I realized how much I enjoy helping othe
 I like knowing that my work helps someone get through a tough moment of their
 code failing or providing that ah-ha moment when they finally understand a
 complext concept. While it might not necessarily fit into the category of fun,
-it is very rewarding and is a large part of my motivation.
+it's very rewarding and a large part of my motivation.
 
 # Q&A
 
@@ -326,6 +326,8 @@ technical writers either love or hate the FAQ section of any doc set, so I know 
 tempting fate by putting this here. :)
 
 ## How can I transition into technical writing?
+
+
 
 ## How can I get more technical writing experience?
 
@@ -342,6 +344,18 @@ tempting fate by putting this here. :)
 ## How does engineering differ from technical writing?
 
 ## How can I improve my writing skills?
+
+Practice, practice, practice! And while you're practicing, do the following.
+
+*   Familiarize yourself with industry best practices for things like grammar,
+    punctuation, capitalization, formatting, abbreviations, accessibility,
+    localization, and more.
+*   Understand how to follow a style guide, such as the
+    [Google developer documentation style guide](https://developers.google.com/style).
+*   Discuss writing with other writers and editors—check out the [Write the Docs](https://www.writethedocs.org/)
+    communities.
+*   Read your documents out loud. This might sound silly, but it's helpful
+    when self-editing and trying to maintain a conversational tone.
 
 <!-- https://www.facebook.com/groups/926549627483994/?post_id=1212004558938498 -->
 
@@ -385,6 +399,7 @@ a technical writer?"
 *   [Jobs] [Write the Docs job board](https://jobs.writethedocs.org/)
 *   [Salary] [Technical Writers @ U.S. Bureau of Statistics](https://www.bls.gov/ooh/media-and-communication/technical-writers.htm)
 *   [Tool] [Doc plan template](https://todhilton.com/technicalwriting/doc-plan-template/)
+*   [Tool] [Google developer documentation style guide](https://developers.google.com/style)
 
 <figure style="width: 400px" class="align-center">
   <a href="/images/DayInLifeOfTW-slide06.png">
