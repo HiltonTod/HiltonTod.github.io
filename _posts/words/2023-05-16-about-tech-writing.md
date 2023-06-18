@@ -453,6 +453,8 @@ reviewing the suggestions in
 
 ## Do I need to know how to code?
 
+## What other types of writing jobs are available?
+
 ## What can engineers do to work better with tech writers?
 
 ## How does technical writing differ from the documentation work done by engineers?
