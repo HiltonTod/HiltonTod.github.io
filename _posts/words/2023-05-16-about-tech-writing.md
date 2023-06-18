@@ -218,13 +218,13 @@ the better you'll be at doing _it_. Practice and then practice some more!
 
 # Day in the life
 
-When I was an engineer and interested in switching disciplines, I asked a friend
-of mine who had 10 years of experience as a technical writer, "what do you do?"
+When I was an engineer and interested in switching disciplines in 2015, I asked a
+friend who had 10 years of experience as a technical writer, "what do you do?"
 Here's their answer:
 
 > About one-third of my time is spent doing program management (PgM) work, another
 > third with engineering (SWE) and testing work, and the remaining third is actually
-> writing docs (TW).
+> writing docs (TW). ~David Shevitz
 
 Their description has stuck with me all these years. It's practical, succinct, and
 accurate, especially for those of us in the software industry who are familiar with
