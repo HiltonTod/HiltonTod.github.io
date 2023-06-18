@@ -38,8 +38,7 @@ drastically—different perspective, but every one of them is valid and informat
 
 When I attend or listen to a presentation, I'm always interested to know more about the
 speaker and their experiences. Since this article is based on a presentation I gave to
-university students, I'm including my biography slide with a few more details, including
-some personal interests.
+university students, I'm including my biography slide.
 
 As of this writing (June 2023), I have seven years experience as a technical writer,
 and sixteen years before that as a systems engineer, team lead, software engineer
@@ -81,9 +80,8 @@ To break it down a bit further, technical writers spend much of their time doing
 
 # Skills of a technical writer
 
-One of the main reasons I switched from software engineering to technical writing is
-because the skills I excelled at—and enjoyed—mapped to those most needed by technical
-writers.
+I switched from software engineering to technical writing because the skills I excelled
+at—and enjoyed—mapped to those most needed by technical writers.
 
 *   **Communicate** - It's not just about the writing, although that is important
 *   **Collaborate** - With people and teams across different disciplines (engineering,
@@ -117,7 +115,6 @@ basics of effective communication.
 Although we're writers by title and trade, technical writers need to be able to
 communicate effectively across job disciplines, teams, and even companies, using
 all the methods available to us.
-
 
 ## Collaborate
 
@@ -290,15 +287,33 @@ to be seen by the readers.
 # What I like about technical writing
 
 When I finished my presentation to the [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
-participants, I asked for feedback from a friend and co-worker of mine who attended.
-They were a fellow technical writer at Google for 3 of my years with Cloud and
-said they missed hearing what I like about being a tech writer.
+participants, I asked for feedback from a friend and fellow Cloud tech writer who
+attended. They advised me to include what I like about technical writing and what
+makes it fun, as we'd previously discussed, to help the audience understand more
+about my motivation.
 
 > I like writing. I like technology. Putting the two together was a no-brainer
 > that took me 16 years to figure out.
 
 First and foremost, the people are my favorite part of being a technical writer.
-In my experience, the discipline seems to attract 
+Honestly, I can say this about each position in my career, but, admittedly,
+I feel a special connection with other writers, moreso than I did with engineers.
+They typically value the skills that I previously outlined, often come from
+unexpected professional backgrounds, encompass diverse personal life experiences,
+and share a love for learning.
+
+> Always be learning
+
+Combining my curiosity with a job where I'm expected to learn new things is a
+recipe for fun. While they call it work and not play for a reason, I sincerely
+enjoy digging into something new and trying to understand it as best I can.
+My curiosity and love of learning is one of the reasons I'm a voracious reader.
+
+It wasn't until later in my career that I realized how much I enjoy helping others.
+I like knowing that my work helps someone get through a tough moment of their
+code failing or providing that ah-ha moment when they finally understand a
+complext concept. While it might not necessarily fit into the category of fun,
+it is very rewarding and is a large part of my motivation.
 
 WORDS GO HERE
 
