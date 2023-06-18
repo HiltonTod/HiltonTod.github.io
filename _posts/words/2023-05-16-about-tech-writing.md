@@ -382,8 +382,6 @@ while keeping them to the point. I recommend that you include the following.
  
 You can view my portfolio at [todhilton.com/technicalwriting](https://todhilton.com/technicalwriting/).
 
-## What should I include in my technical writing portfolio?
-
 ## What can engineers do to work better with tech writers?
 
 ## How does technical writing differ from the documentation work done by engineers?
