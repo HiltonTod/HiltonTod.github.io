@@ -2,7 +2,7 @@
 title: "Day in the life of a technical writer"
 excerpt: &excerpt "What's a typical day like for a technical writer in the software industry?"
 tweet: "Day in the life of a technical writer" 
-modified: 2023-05-16
+modified: 2023-06-17
 category: words
 image: "typewriter-20160523-124720.1725-norway-Langevog-1600x500.jpg"
 header:
@@ -327,9 +327,23 @@ tempting fate by putting this here. :)
 
 ## How can I transition into technical writing?
 
+Find opportunities in your current position, job, or company to write documentation
+and gain some experience while creating a portfolio. While doing so, be sure
+to follow the suggestions in
+[How can I improve my writing skills?](#How-can-I-improve-my-writing-skills).
 
+Review the [skills of a technical writer](#Skills-of-a-technical-writer) and
+think about how you demonstrate them in your current role. Try to increase the
+areas of your day-to-day work that uses these skills so that you can speak to
+them on your resume and during interviews.
 
-## How can I get more technical writing experience?
+Take a certification course, such as the
+[Technical Writing Certificate Program](https://www.tomboloinstitute.com/courses/technical-writing/technical-writing-certificate-program/)
+at the Tombolo Institute at Bellevue College, the
+[UW Certificate in Professional Technical Writing](https://www.pce.uw.edu/certificates/professional-technical-writing),
+or [UC Berkeley Certificate in Technical Communication](https://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=17211).
+
+## How can I get experience writing technical docs?
 
 ## How can I build a writing portfolio?
 
@@ -352,8 +366,8 @@ Practice, practice, practice! And while you're practicing, do the following.
     localization, and more.
 *   Understand how to follow a style guide, such as the
     [Google developer documentation style guide](https://developers.google.com/style).
-*   Discuss writing with other writers and editors—check out the [Write the Docs](https://www.writethedocs.org/)
-    communities.
+*   Discuss writing with other writers and editors. For example, check out
+    the [Write the Docs](https://www.writethedocs.org/) communities.
 *   Read your documents out loud. This might sound silly, but it's helpful
     when self-editing and trying to maintain a conversational tone.
 
