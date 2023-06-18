@@ -319,8 +319,10 @@ code failing or providing that ah-ha moment when they finally understand a
 complext concept. While it might not necessarily fit into the category of fun,
 it's very rewarding and a large part of my motivation.
 
-_**Aside:** Discussing what I like about technical writing brings up the concept
-of how we feel about our work and here's my personal theory on job satisfaction._
+## Find joy in your work
+
+Discussing what I like about technical writing brings up the concept of how
+we feel about our work. Here's my personal theory on job satisfaction.
 
 > To experience joy in your work, focus on the skills you enjoy and building your
 > proficiency with them.
@@ -340,7 +342,8 @@ here's why:
     Joy can be constant, while happiness is temporary. 
 *   Pragmatically speaking, skills are transferable between jobs, making role transitions
     more accessible to you over the length of your career. By focusing on your skills,
-    you can identify where they apply to all kinds of different jobs and industries.
+    you can identify where they apply to all kinds of different jobs and industries,
+    which opens up a world of opportunities.
 
 # Q&A
 
@@ -350,24 +353,26 @@ tempting fate by putting this here. :)
 
 ## How can I transition into technical writing?
 
-*   Get writing experience whereever you can, preferably on-the-job
-*   Create a writing portfolio
-*   Take a certification course
-
-Find opportunities in your current position, job, or company to write documentation
-and gain some experience while creating a portfolio. While doing so, be sure
-to follow the suggestions in
+**Write!** Find opportunities in your current position, job, or company to write
+documentation and gain some experience while creating a portfolio. While doing so,
+be sure to follow the suggestions in
 [How can I improve my writing skills?](#how-can-I-improve-my-writing-skills).
 
-Review the [skills of a technical writer](#skills-of-a-technical-writer) and
-think about how you demonstrate them in your current role. Try to increase the
+**Focus on the skills!** Review the [skills of a technical writer](#skills-of-a-technical-writer)
+and think about how you demonstrate them in your current role. Try to increase the
 areas of your day-to-day work that use these skills so that you can speak to
 them on your resume and during interviews.
 
-When creating your portfolio, determine if the documents you've created at your
-current role can be shared publicly and, if so, include them.
+**Create a portfolio!** If you're able to create documents as part of your
+current role, determine if they can be shared publicly and included in your
+writing portfolio. If only parts are confidential, you might try scrubbing
+them of that information and sharing them publicly, but I recommend that you
+error on the side of caution when doing so.
 
-You can take a certification course, such as the following.
+**Take a certification course!** Before I had official experience as a tech
+writer, I often received the same reaction to my applications: come back
+to us when you have a year or two of experience. I was able to get over this
+hurdle by taking a certification course. Here are a few to investigate.
 *   [Technical Writing Certificate Program](https://www.tomboloinstitute.com/courses/technical-writing/technical-writing-certificate-program/)
 at the Tombolo Institute at Bellevue College
 *   [UW Certificate in Professional Technical Writing](https://www.pce.uw.edu/certificates/professional-technical-writing)
