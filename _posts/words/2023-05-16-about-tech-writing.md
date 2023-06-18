@@ -347,9 +347,10 @@ here's why:
 
 # Q&A
 
-Answers to questions I've frequently been asked about technical writing. Admittedly,
-technical writers either love or hate the FAQ section of any doc set, so I know I'm
-tempting fate by putting this here. :)
+Answers to questions I've frequently been asked about technical writing, not limited
+to the recent presentation that initiated this article. Admittedly, technical writers
+either love or hate the FAQ section of any doc set, so I know I'm tempting fate by
+putting this here. :)
 
 Keep in mind that the following answers are based on my experience writing
 documentation for the software industry.
@@ -452,6 +453,24 @@ reviewing the suggestions in
 [How can I build a writing portfolio?](#how-can-i-build-a-writing-portfolio).
 
 ## Do I need to know how to code?
+
+TODO THIS SECTION
+
+At a minimum, you should be familiar enough with a programming language to be
+able to read and understand code snippets. 
+
+On the other end of the spectrum, you can be a full-fledged engineer with years of experience developing software
+
+
+Of course, this
+expectation is going to be different for 
+
+
+
+It's helpful if you've
+actually written applications, even 
+
+—
 
 ## What other types of writing jobs are available?
 
