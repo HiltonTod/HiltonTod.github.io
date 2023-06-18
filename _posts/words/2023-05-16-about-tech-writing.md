@@ -338,7 +338,7 @@ to follow the suggestions in
 
 Review the [skills of a technical writer](#skills-of-a-technical-writer) and
 think about how you demonstrate them in your current role. Try to increase the
-areas of your day-to-day work that uses these skills so that you can speak to
+areas of your day-to-day work that use these skills so that you can speak to
 them on your resume and during interviews.
 
 When creating your portfolio, determine if the documents you've created at your
