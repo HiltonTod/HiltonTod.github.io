@@ -351,6 +351,9 @@ Answers to questions I've frequently been asked about technical writing. Admitte
 technical writers either love or hate the FAQ section of any doc set, so I know I'm
 tempting fate by putting this here. :)
 
+Keep in mind that the following answers are based on my experience writing
+documentation for the software industry.
+
 ## How can I transition into technical writing?
 
 **Write!** Find opportunities in your current position, job, or company to write
@@ -378,16 +381,27 @@ at the Tombolo Institute at Bellevue College
 *   [UW Certificate in Professional Technical Writing](https://www.pce.uw.edu/certificates/professional-technical-writing)
 *   [UC Berkeley Certificate in Technical Communication](https://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=17211).
 
-## How can I get experience writing technical docs?
-
-If you're transitioning from an existing role or job, see
-[How can I transition into technical writing?](#how-can-I-transition-into-technical-writing).
-
-If you don't have opportunities to write in your existing role, I recommend the following.
-
-*   WORDS GO HERE
-
 ## How can I build a writing portfolio?
+
+*   Include documentation you've written in your current role, per my recommendation
+    in [How can I transition into technical writing?](#how-can-I-transition-into-technical-writing).
+*   Think of a technical task or project you've done or want to do and document it. This
+    is how I came up with the writing sample describing how to
+    [upload and backup files to Amazon S3 with PowerShell](https://todhilton.com/technicalwriting/upload-backup-your-files-to-amazon-s3-with-powershell/).
+*   Find an existing document and rewrite it. This is an opportunity to make changes
+    to the content's flow, correct assumptions, and use your own tone of voice. It's
+    also an opportunity to explain why you made the changes, while maintaining a positive
+    attitude towards the original. Instead of saying "it sucked" try to point to objective
+    reasons, such as "during my testing I discovered that they missed a crucial step" or
+    "I had trouble understanding the analogy they used to explain the concept and wanted
+    to try a different one."
+*   If you have a side project, such as creating a mobile app, document it as though
+    you're doing so for your customers or team of engineers, product managers, and program
+    managers.
+*   Contribute to an open source project. Honestly, this is much more difficult than
+    many realize. I received this advice, but I couldn't find a project that I understood,
+    needed documentation, and had a fairly clear entry point for me to contribute. The
+    barrier to entry was too high, especially as an inexperienced writer.
 
 ## What should I include in my portfolio?
 
@@ -409,6 +423,15 @@ while keeping them to the point. I recommend that you include the following.
     *   Troubleshooting - guidelines for how to deal with a specific problem or issue
  
 You can view my portfolio at [todhilton.com/technicalwriting](https://todhilton.com/technicalwriting/).
+
+## How can I get experience writing technical docs?
+
+If you're transitioning from an existing role or job, see
+[How can I transition into technical writing?](#how-can-I-transition-into-technical-writing).
+
+If you don't have opportunities to write in your existing role, I recommend
+reviewing the suggestions in
+[How can I build a writing portfolio?](#how-can-i-build-a-writing-portfolio).
 
 ## What can engineers do to work better with tech writers?
 
