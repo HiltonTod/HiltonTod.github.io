@@ -394,13 +394,14 @@ at the Tombolo Institute at Bellevue College
     attitude towards the original. Instead of saying "it sucked" try to point to objective
     reasons, such as "during my testing I discovered that they missed a crucial step" or
     "I had trouble understanding the analogy they used to explain the concept and wanted
-    to try a different one."
+    to try a different one." If you do this, state clearly that you're rewriting someone
+    else's work so that the reviewers don't mistake it for your original writing.
 *   If you have a side project, such as creating a mobile app, document it as though
-    you're doing so for your customers or team of engineers, product managers, and program
-    managers.
+    you're doing so for customers or your imagined team of engineers, product managers,
+    and program managers.
 *   Contribute to an open source project. Honestly, this is much more difficult than
     many realize. I received this advice, but I couldn't find a project that I understood,
-    needed documentation, and had a fairly clear entry point for me to contribute. The
+    needed documentation, and had a clear entry point for me to contribute. The
     barrier to entry was too high, especially as an inexperienced writer.
 
 ## What should I include in my portfolio?
