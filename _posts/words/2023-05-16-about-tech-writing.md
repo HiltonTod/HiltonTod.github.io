@@ -2,7 +2,7 @@
 title: "Day in the life of a technical writer"
 excerpt: &excerpt "What's a typical day like for a technical writer in the software industry?"
 tweet: "Day in the life of a technical writer" 
-modified: 2023-06-17
+modified: 2023-06-19
 category: words
 image: "typewriter-20160523-124720.1725-norway-Langevog-1600x500.jpg"
 header:
