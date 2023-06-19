@@ -484,6 +484,21 @@ in the software industry.
 
 ## What can engineers do to work better with tech writers?
 
+I sincerely appreciate the thoughtfulness of this question—admittedly, it caught me
+off guard when I received it.
+
+Respect the writer and their work. When our interactions across disciplines are
+rooted in respect for each other, we can build a relationship based on mutual trust
+that allows each of us to flourish and do our best work. Knowing that the engineer
+respects them and their work, creates confidence in the writer, allowing them to
+move through the writing process effectively and efficiently.
+
+I've heard stories of companies and teams where the tech writers had to constantly
+prove their value to the engineers. Not only is that exhausting, but it consumes
+much of your time that you could be using to create great documentation that ultimately
+makes for a better customer experience. Fortunately, my experiences with engineers
+have been exceedingly positive and respectful during my time as a tech writer.
+
 ## How does technical writing differ from the documentation work done by engineers?
 
 ## How does engineering differ from technical writing?
