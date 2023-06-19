@@ -157,7 +157,7 @@ and what they can do with the product.
 > Plan the work and work the plan. ~Unknown
 
 Without a plan, you're herding cats. That doesn't mean you _must_ have a plan,
-but it will make things easier throughout the project. There are several
+but it makes things easier throughout the project. There are several
 variables and considerations when writing a technical document or set of docs.
 Planning for those ahead of time allows you to focus on doing the tasks and
 coordinating them, instead of figuring out what they are as you go.
