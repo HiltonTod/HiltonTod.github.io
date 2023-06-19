@@ -454,21 +454,33 @@ reviewing the suggestions in
 
 ## Do I need to know how to code?
 
+Yes, at least to some degree. The more programming knowledge you have, the
+more opportunities you'll find.
+
 To be a technical writer in the software industry, you should be familiar enough
-with a programming language to understand sections of code when reading it. 
+with a programming language to understand sections of code when reading it.
 It's also likely that you'll be writing small sections of sample code, referred
 to as code snippets. The complexity of the code snippets vary greatly and engineers
-usually help create and review them, also providing writers the opportunity to learn
+can help create and review them, also providing writers the opportunity to learn
 as they're creating the docs.
 
 The coding ability of technical writers spans a broad spectrum of experience and
 capability. There are writers who can code as well as the engineers they
-work with, and writers with little programming knowledge or experience. The same
+work with, and writers with minimal programming knowledge or experience. The same
 can be said for the products and technologies we write about. There are products
-that don't require any coding at all, while others are extremely technical and
-the writers spend a significant amount of effort on code samples.
+that require little coding and others that are extremely technical, where
+writers spend a significant amount of effort on code samples.
 
 ## What other types of writing jobs are available?
+
+This is not an exhaustive list, rather some examples of other writing-related jobs
+in the software industry.
+
+*   User experience (UX) writer
+*   Technical editor
+*   Instructional designer
+*   End-user documentation writer
+*   Marketing content writer
 
 ## What can engineers do to work better with tech writers?
 
