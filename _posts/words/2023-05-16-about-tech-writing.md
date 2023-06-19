@@ -347,13 +347,13 @@ and here's why:
 
 # Q&A
 
-Answers to questions I've frequently been asked about technical writing, not limited
-to the recent presentation that initiated this article. Admittedly, technical writers
-either love or hate the FAQ section of any doc set, so I know I'm tempting fate by
+The following are answers to questions I've been frequently asked about technical writing,
+not limited to the recent presentation that initiated this article. Admittedly, technical
+writers either love or hate the FAQ section of any doc set, so I know I'm tempting fate by
 putting this here. :)
 
-Keep in mind that the following answers are based on my experience writing
-documentation for the software industry.
+Keep in mind that these are based on my experience writing documentation for the software
+industry.
 
 ## How can I transition into technical writing?
 
