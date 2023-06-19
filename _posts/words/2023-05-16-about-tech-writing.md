@@ -324,7 +324,7 @@ it's rewarding and a large part of my motivation.
 Discussing what I like about technical writing brings up the concept of how
 we feel about our work. Here's my personal theory on job satisfaction.
 
-> To experience joy in your work, focus on the skills you enjoy and building your
+> To experience joy in your work, focus on the skills you enjoy and build your
 > proficiency with them.
 
 I prefer this philosophy to the advice we hear so often to _do what you love_, and
