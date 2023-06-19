@@ -17,6 +17,8 @@ toc: true
 toc_label: "Technical writing"
 ---
 
+{% include toc %}
+
 I'm often asked "what does a technical writer do?" and usually respond by describing
 where I work, the goals of my projects, the kind of work they entail, and how I spend
 my time. But when I was asked to spend an hour discussing technical writing with a
