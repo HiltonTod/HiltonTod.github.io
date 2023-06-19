@@ -327,8 +327,8 @@ we feel about our work. Here's my personal theory on job satisfaction.
 > To experience joy in your work, focus on the skills you enjoy and build your
 > proficiency with them.
 
-I prefer this philosophy to the advice we hear so often to _do what you love_, and
-here's why:
+I prefer this philosophy to _do what you love_, advice that we hear so often,
+and here's why:
 
 *   The word _love_ has significant weight to it and can have a powerful impact
     on our emotional health. Attaching _love_ to our work can create emotional
