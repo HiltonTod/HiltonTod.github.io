@@ -237,8 +237,8 @@ As previously described in the skills section, [collaboration](#Collaborate) is
 imperative to being successful as a technical writer. I'd posit that it's a
 primary function of a program manager, hence the role comparison.
 
-During a typical workday, that involves communicating openly and in a timely manner
-with the subject matter experts, stakeholders, and other writers about the project's
+A typical workday involves communicating openly and in a timely manner
+with subject matter experts, stakeholders, and other writers about the project's
 status and any issues that arise. Technical writers work closely with engineers and
 subject matter experts to gain a certain level of understanding of the product or
 features. Like most, writers often have more requests and work than we can fit into
