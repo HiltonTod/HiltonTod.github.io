@@ -317,7 +317,7 @@ It wasn't until later in my career that I realized how much I enjoy helping othe
 I like knowing that my work helps someone get through a tough moment of their
 code failing or providing that ah-ha moment when they finally understand a
 complext concept. While it might not necessarily fit into the category of fun,
-it's very rewarding and a large part of my motivation.
+it's rewarding and a large part of my motivation.
 
 ## Find joy in your work
 
