@@ -224,7 +224,7 @@ Here's their answer:
 
 > About one-third of my time is spent doing program management (PgM) work, another
 > third with engineering (SWE) and testing work, and the remaining third is actually
-> writing docs (TW). ~David Shevitz
+> writing docs (TW).
 
 Their description has stuck with me all these years. It's practical, succinct, and
 accurate, especially for those of us in the software industry who are familiar with
