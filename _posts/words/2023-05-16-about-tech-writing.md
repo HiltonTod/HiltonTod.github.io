@@ -102,7 +102,7 @@ Now that you've read the list, let's go into a bit more detail about each of the
 ## Communicate
 
 As a philosophical-minded person, I feel strongly that communication is the
-key to just about everything in life. If you consider your relationships, personal
+key to much in life. If you consider your relationships, personal
 or professional, their quality often hinges on how well the two of you communicate.
 
 Communication is about more than words on a page and that's what makes it so
