@@ -501,6 +501,23 @@ have been exceedingly positive and respectful during my time as a tech writer.
 
 ## How does technical writing differ from the documentation work done by engineers?
 
+Documentation created by a technical writer includes the benefits of their experience
+and knowledge as professional communicators.
+
+An engineer's primary focus is to create an application, program, or the like. Whereas,
+a technical writer's focus is to help people understand complex ideas and technology.
+They're different jobs and while crossover happens, the success of doing so is
+mixed.
+
+When an engineering team has support from technical writers they play
+an integral role in the documentation process by sharing their domain knowledge,
+reviewing the docs for accuracy, and sometimes creating initial rough drafts.
+
+When the engineering team is responsible for the technical documentation, in addition
+to their development responsibilities, it can create opposing priorities and time
+constraints that reduce the effectiveness, efficiency, and quality of both the
+product and the documentation.
+
 ## How does engineering differ from technical writing?
 
 <!-- https://www.facebook.com/groups/926549627483994/?post_id=1212004558938498 -->
