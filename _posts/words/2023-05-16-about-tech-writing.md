@@ -520,7 +520,14 @@ product and the documentation.
 
 ## How does engineering differ from technical writing?
 
-<!-- https://www.facebook.com/groups/926549627483994/?post_id=1212004558938498 -->
+The short answer is that they're different jobs with different focuses. Many of
+the skills crossover, such as a technical writer who is proficient at coding or
+an engineer with excellent communication skills will both be more effective in
+many positions. Yet, each role has different priorities and produces different
+end products.
+
+Also see [How does technical writing differ from the documentation work done by engineers?](#how-does-technical-writing-differ-from-the-documentation-work-done-by-engineers)
+for more on this topic.
 
 _Here are a few fun personal questions from the presentation's attendees._
 
@@ -554,6 +561,7 @@ a technical writer?"
 *   [Article] [Brief introduction to Technical Writing](https://www.stephaniemorillo.co/post/a-brief-introduction-to-technical-writing)
 *   [Article] [What is Technical Writing?](https://contentwriters.com/blog/what-is-technical-writing/)
 *   [Article] [Becoming a Technical Writer (Google)](https://developers.google.com/tech-writing/becoming)
+*   [Article] [What does a software technical writer do?](https://technicalwriterhq.com/career/software-technical-writer/)
 *   [Book] [Modern Technical Writing: An Introduction to Software Documentation](https://www.goodreads.com/book/show/28433138-modern-technical-writing), by [Andrew Etter](https://andyetter.com/)
 *   [Book] [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well), by William Zinsser
 *   [Blog] [FFeathers](https://ffeathers.wordpress.com/), by Sarah Maddox
@@ -569,6 +577,13 @@ a technical writer?"
   <img src="/images/DayInLifeOfTW-slide06.png" alt="Resources.">
   </a>
 </figure> 
+
+<!--
+  Some other resources for personal reference, not published:
+  *   My Facebook AMA from 2018 GHC - https://www.facebook.com/groups/926549627483994/?post_id=1212004558938498 
+  *   Description of remote TW - https://technicalwriterhq.com/career/remote-technical-writer/
+  *   Interesting LinkedIn post - https://www.linkedin.com/posts/joshua-fechter_technical-writer-you-say-sounds-pretty-activity-7071455629311152128-dPJP/
+-->
 
 # Presentation slides
 
