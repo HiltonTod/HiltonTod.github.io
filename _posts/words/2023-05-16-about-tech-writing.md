@@ -85,7 +85,7 @@ at—and enjoyed—mapped to those most needed by technical writers.
 
 *   **Communicate** - It's not just about the writing, although that is important
 *   **Collaborate** - With people and teams across different disciplines (engineering,
-    program management, product management, user experience, & more)
+    program management, & more)
 *   **Curiosity** - Always be learning
 *   **Empathy** - Put yourself in your readers place
 *   **Planning** - Plan the work
