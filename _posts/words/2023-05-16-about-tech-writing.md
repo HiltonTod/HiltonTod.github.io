@@ -310,7 +310,7 @@ recipe for fun. While they call it work and not play for a reason—a phrase oft
 heard from my dad—I sincerely enjoy digging into something new and trying to
 understand it as best I can. On a personal note, my curiosity and love of learning
 is one of the reasons I'm an avid reader ([my reading list](http://todhilton.com/reads/books/),
-which I strongly believe contributes to my success as a technical writer.
+which I believe contributes to my success as a technical writer.
 
 > Not all readers are leaders, but all leaders are readers. ~Harry S. Truman
 
