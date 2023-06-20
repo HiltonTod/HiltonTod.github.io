@@ -291,8 +291,7 @@ metaphorical water, never to be seen by the readers.
 When I finished my presentation to the [Tech Exchange](https://buildyourfuture.withgoogle.com/programs/tech-exchange)
 participants, I asked for feedback from a friend and fellow tech writer who
 attended. They advised me to include what I like about technical writing and what
-makes it fun, as we'd previously discussed, to help the audience understand more
-about my motivation.
+makes it fun, to help the audience understand more about my motivation.
 
 > I like writing. I like technology. Putting the two together was a no-brainer
 > that took me 16 years to figure out.
