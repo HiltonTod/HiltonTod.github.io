@@ -334,6 +334,10 @@ and here's why:
 *   The word _love_ has significant weight to it and can have a powerful impact
     on our emotional health. Attaching _love_ to our work can create emotional
     highs and lows that we have little control over and affect our work-life balance.
+*   The mentality of _do what you love_ directly and deeply connects your job to your
+    identity and, subsequently, your community. It's great to have a sense of community
+    with our co-workers, but it shouldn't be the primary or only community in our
+    life.
 *   By focusing on our skills, learning, and improving them, we intrinsicly find joy
     in our behavior and accomplishments. Research over the last few decades has proven
     that this is a sustainable way to feel joy, instead of pursuing the ambiguous
