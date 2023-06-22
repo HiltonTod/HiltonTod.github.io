@@ -309,7 +309,7 @@ Writing has been instrumental to my life since I was a teenager. I've written
 short stories and—arguably bad and angsty—poetry; journalled about my emotional
 highs and lows; blogged about fatherhood, software development, technology,
 and life-stuff; and written short, auto-biographic details of various points in
-my life. From a professional, educational, and learning—perspective, I've always
+my life. From a professional, educational, and learning perspective, I've always
 leaned towards notes and documentation as my go-to for keeping or transferring
 information. Writing is an integral part of who I am and getting to do that as
 my primary job function brings me a lot of joy.
