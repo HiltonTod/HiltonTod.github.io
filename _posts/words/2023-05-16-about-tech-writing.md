@@ -49,7 +49,7 @@ practiced for a few years before realizing it wasn't for me and switched to the
 information technology (IT) field—this was inspired by my brother who had recently
 left the U.S. Navy and began his career in IT. 
 
-<figure style="width: 400px" class="align-left">
+<figure style="width: 400px">
   <a href="/images/DayInLifeOfTW-slide01.png">
   <img src="/images/DayInLifeOfTW-slide01.png" alt="Tod Hilton resume and short bio">
   </a>
