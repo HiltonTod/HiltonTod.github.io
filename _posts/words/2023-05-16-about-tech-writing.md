@@ -303,6 +303,17 @@ Writers typically value the skills that I previously outlined, often come from
 unexpected professional backgrounds, encompass diverse personal life experiences,
 and share a love for learning.
 
+> I can shake off everything as I write; my sorrows disapper, my courage is reborn. ~Anne Frank
+
+Writing has been instrumental to my life since I was a teenager. I've written
+short stories and—arguably bad and angsty—poetry; journalled about my emotional
+highs and lows; blogged about fatherhood, software development, technology,
+and life-stuff; and written short, auto-biographic details of various points in
+my life. From a professional, educational, and learning—perspective, I've always
+leaned towards notes and documentation as my go-to for keeping or transferring
+information. Writing is an integral part of who I am and getting to do that as
+my primary job function brings me a lot of joy.
+
 > Always be learning
 
 Combining my curiosity with a job where I'm expected to learn new things is a
