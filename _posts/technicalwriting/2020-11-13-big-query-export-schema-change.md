@@ -39,7 +39,7 @@ _...and here are the samples._
 
 The current version of the document is available at [Google Cloud](https://cloud.google.com/billing/docs/how-to/export-data-bigquery-examples).
 Because the content will continue to evolve, I've captured the work I did in the following
-PDF file. Additionlly, because "print to PDF" removes much of a web site's styling, I've
+PDF file. Additionally, because "print to PDF" removes much of a web site's styling, I've
 included a screenshot image of how the page looked at the time it was published.
 
 | Doc (pdf) | Screenshot | Live link |
