@@ -11,12 +11,12 @@ author_profile: false
 {{ page.excerpt | markdownify }}
 
 <div class="grid__wrapper">
-  <p>
-    <a href="https://instagram.com/HiltonTod">Instagram</a>
-    <a href="https://www.linkedin.com/in/todhilton">LinkedIn</a>
-    <a href="https://hachyderm.io/@HiltonTod">Mastodon</a>
-    <a href="https://photos.todhilton.com/">Photography</a>
-    <a href="/reads/books">Reading list</a>
-    <a href="/resume">Resume</a>
-  </p>
+  <ul>
+    <li><a href="https://instagram.com/HiltonTod">Instagram</a></li>
+    <li><a href="https://www.linkedin.com/in/todhilton">LinkedIn</a></li>
+    <li><a href="https://hachyderm.io/@HiltonTod">Mastodon</a></li>
+    <li><a href="https://photos.todhilton.com/">Photography</a></li>
+    <li><a href="/reads/books">Reading list</a></li>
+    <li><a href="/resume">Resume</a></li>
+  </ul>
 </div>
