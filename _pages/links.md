@@ -10,6 +10,10 @@ author_profile: false
 
 {{ page.excerpt | markdownify }}
 
+* [Instagram](https://instagram.com/HiltonTod)
+* [LinkedIn](https://www.linkedin.com/in/todhilton)
+* [Mastodon](https://hachyderm.io/@HiltonTod)
+
 <div class="grid__wrapper">
   <ul>
     <li><a href="https://instagram.com/HiltonTod">Instagram</a></li>
