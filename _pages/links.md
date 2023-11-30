@@ -13,8 +13,6 @@ author_profile: false
 
 {{ page.excerpt | markdownify }}
 
-<center>
-
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instagram &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://instagram.com/HiltonTod){: .btn}
 
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/todhilton){: .btn}
@@ -28,5 +26,3 @@ author_profile: false
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resume &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](/resume){: .btn}
 
 [&nbsp; TodHilton.com &nbsp;](https://todhilton.com){: .btn}
-
-</center>
