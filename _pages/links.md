@@ -24,14 +24,3 @@ author_profile: false
 [Reading list](/reads/books){: .btn}
 
 [Resume](/resume){: .btn}
-
-<div class="grid__wrapper">
-  <ul>
-    <li><a href="https://instagram.com/HiltonTod">Instagram</a></li>
-    <li><a href="https://www.linkedin.com/in/todhilton">LinkedIn</a></li>
-    <li><a href="https://hachyderm.io/@HiltonTod">Mastodon</a></li>
-    <li><a href="https://photos.todhilton.com/">Photography</a></li>
-    <li><a href="/reads/books">Reading list</a></li>
-    <li><a href="/resume">Resume</a></li>
-  </ul>
-</div>
