@@ -8,15 +8,17 @@ fullwidth: true
 author_profile: false
 ---
 
+
+<!-- Instructions for buttons: https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/#buttons -->
+
 {{ page.excerpt | markdownify }}
 
-* [Instagram](https://instagram.com/HiltonTod)
-* [LinkedIn](https://www.linkedin.com/in/todhilton)
-* [Mastodon](https://hachyderm.io/@HiltonTod)
-* [Photography](https://photos.todhilton.com/)
-* [Reading list](/reads/books)
-* [Resume](/resume)
-  
+[Instagram](https://instagram.com/HiltonTod){: .btn}
+[LinkedIn](https://www.linkedin.com/in/todhilton){: .btn}
+[Mastodon](https://hachyderm.io/@HiltonTod){: .btn}
+[Photography](https://photos.todhilton.com/){: .btn}
+[Reading list](/reads/books){: .btn}
+[Resume](/resume){: .btn}
 
 <div class="grid__wrapper">
   <ul>
