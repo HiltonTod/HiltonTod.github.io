@@ -13,16 +13,16 @@ author_profile: false
 
 {{ page.excerpt | markdownify }}
 
-[.  TodHilton.com  .](https://todhilton.com){: .btn}
+[. . TodHilton.com . .](https://todhilton.com){: .btn}
 
-[.    Instagram    .](https://instagram.com/HiltonTod){: .btn}
+[. . . Instagram . . .](https://instagram.com/HiltonTod){: .btn}
 
-[.     LinkedIn    .](https://www.linkedin.com/in/todhilton){: .btn}
+[. . . LinkedIn. . . .](https://www.linkedin.com/in/todhilton){: .btn}
 
-[.     Mastodon    .](https://hachyderm.io/@HiltonTod){: .btn}
+[. . . Mastodon. . . .](https://hachyderm.io/@HiltonTod){: .btn}
 
-[.   Photography   .](https://photos.todhilton.com/){: .btn}
+[. . .Photography. . .](https://photos.todhilton.com/){: .btn}
 
-[.   Reading list  .](/reads/books){: .btn}
+[. . .Reading list . .](/reads/books){: .btn}
 
-[.      Resume     .](/resume){: .btn}
+[. . . . Resume. . . .](/resume){: .btn}
