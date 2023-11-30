@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /links/
-title: "Tod Hilton's links"
+title: "Links"
 excerpt: ""
 ads: false
 fullwidth: true
