@@ -10,6 +10,9 @@ author_profile: false
 
 
 <!-- Instructions for buttons: https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/#buttons -->
+<!-- More instructions for buttons: https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#buttons -->
+
+<p align="center">
 
 {{ page.excerpt | markdownify }}
 
@@ -24,3 +27,5 @@ author_profile: false
 [Reading list](/reads/books){: .btn}
 
 [Resume](/resume){: .btn}
+
+</p>
