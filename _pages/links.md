@@ -23,22 +23,6 @@ author_profile: false
 
 [&nbsp;&nbsp;&nbsp;&nbsp; Reading list &nbsp;&nbsp;&nbsp;&nbsp;](/reads/books){: .btn}
 
-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resume &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](/resume){: .btn}
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resume &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](/resume){: .btn}
 
 [&nbsp; TodHilton.com &nbsp;](https://todhilton.com){: .btn}
-
----
-
-[. . . Instagram. . .](https://instagram.com/HiltonTod){: .btn}
-
-[. . . LinkedIn . . . .](https://www.linkedin.com/in/todhilton){: .btn}
-
-[. . . Mastodon . . .](https://hachyderm.io/@HiltonTod){: .btn}
-
-[. . Photography. .](https://photos.todhilton.com/){: .btn}
-
-[. . .Reading list . .](/reads/books){: .btn}
-
-[. . . . Resume. . . .](/resume){: .btn}
-
-[. TodHilton.com .](https://todhilton.com){: .btn}
