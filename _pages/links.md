@@ -15,13 +15,13 @@ author_profile: false
 
 [. TodHilton.com .](https://todhilton.com){: .btn}
 
-[. . . Instagram . . .](https://instagram.com/HiltonTod){: .btn}
+[. . . Instagram. . .](https://instagram.com/HiltonTod){: .btn}
 
 [. . . LinkedIn . . . .](https://www.linkedin.com/in/todhilton){: .btn}
 
 [. . . Mastodon . . .](https://hachyderm.io/@HiltonTod){: .btn}
 
-[. . Photography . .](https://photos.todhilton.com/){: .btn}
+[. . Photography. .](https://photos.todhilton.com/){: .btn}
 
 [. . .Reading list . .](/reads/books){: .btn}
 
