@@ -14,10 +14,15 @@ author_profile: false
 {{ page.excerpt | markdownify }}
 
 [Instagram](https://instagram.com/HiltonTod){: .btn}
+
 [LinkedIn](https://www.linkedin.com/in/todhilton){: .btn}
+
 [Mastodon](https://hachyderm.io/@HiltonTod){: .btn}
+
 [Photography](https://photos.todhilton.com/){: .btn}
+
 [Reading list](/reads/books){: .btn}
+
 [Resume](/resume){: .btn}
 
 <div class="grid__wrapper">
