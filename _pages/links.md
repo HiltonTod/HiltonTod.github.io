@@ -31,16 +31,16 @@ author_profile: false
 
 [&nbsp; TodHilton.com &nbsp;](https://todhilton.com){: .btn}
 
-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instagram &nbsp;&nbsp;&nbsp;&nbsp;](https://instagram.com/HiltonTod){: .btn}
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instagram &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://instagram.com/HiltonTod){: .btn}
 
-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/todhilton){: .btn}
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/todhilton){: .btn}
 
-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mastodon &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://hachyderm.io/@HiltonTod){: .btn}
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mastodon &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://hachyderm.io/@HiltonTod){: .btn}
 
-[&nbsp;&nbsp;&nbsp; Photography &nbsp;&nbsp;](https://photos.todhilton.com/){: .btn}
+[&nbsp;&nbsp;&nbsp; Photography &nbsp;&nbsp;&nbsp;](https://photos.todhilton.com/){: .btn}
 
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading list &nbsp;&nbsp;&nbsp;&nbsp;](/reads/books){: .btn}
 
-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resume &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](/resume){: .btn}
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resume &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](/resume){: .btn}
 
 &nbsp; 
