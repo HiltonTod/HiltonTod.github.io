@@ -13,6 +13,10 @@ author_profile: false
 * [Instagram](https://instagram.com/HiltonTod)
 * [LinkedIn](https://www.linkedin.com/in/todhilton)
 * [Mastodon](https://hachyderm.io/@HiltonTod)
+* [Photography](https://photos.todhilton.com/)
+* [Reading list](/reads/books)
+* [Resume](/resume)
+  
 
 <div class="grid__wrapper">
   <ul>
