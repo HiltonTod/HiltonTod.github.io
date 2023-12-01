@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /kimber/
-title: "Merry Christmas, Kimber!"
+title: "Stuff for Kimber"
 excerpt: ""
 ads: false
 fullwidth: true
@@ -32,8 +32,6 @@ Give these songs a listen:
 Art by [Karen Hallion](https://www.karenhallion.com/).
 
 ---
-
-<a href="/kimber/JewelStaite-cameo.mp4"><img src="/kimber/Kaylee-EverythingsShiny-byKarenHallion.jpg" alt="CLICK HERE for a Happy Christmas 2020!" title="CLICK HERE for a Happy Christmas 2020" width="300px"></a>
 
 <div class="grid__wrapper">
   <p>
