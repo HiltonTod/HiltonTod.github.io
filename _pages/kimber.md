@@ -8,6 +8,8 @@ fullwidth: true
 author_profile: false
 ---
 
+{% include base_path %}
+
 {{ page.excerpt | markdownify }}
 
 ## Music recommended by Dad
