@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /kimber/
 title: "Stuff for Kimber"
 excerpt: ""
