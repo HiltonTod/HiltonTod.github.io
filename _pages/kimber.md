@@ -31,11 +31,3 @@ Give these songs a listen:
 
 Art by [Karen Hallion](https://www.karenhallion.com/).
 
----
-
-<div class="grid__wrapper">
-  <p>
-    <a href="/kimber/JewelStaite-cameo.mp4"><img src="/kimber/Kaylee-EverythingsShiny-byKarenHallion.jpg" alt="CLICK HERE for a Happy Christmas 2020!" title="CLICK HERE for a Happy Christmas 2020" width="300px"></a>
-  </p>
-  <p>Art by <a href="https://www.karenhallion.com/">Karen Hallion</a>.</p>
-</div>
