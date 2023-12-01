@@ -25,9 +25,15 @@ Give these songs a listen:
 * Imagine, by John Lennon
 * Rocket Man, by Elton John
 
+[![CLICK HERE for a Happy Christmas 2020!](/kimber/Kaylee-EverythingsShiny-byKarenHallion.jpg)](/kimber/JewelStaite-cameo.mp4)
+
+---
+
+<a href="/kimber/JewelStaite-cameo.mp4"><img src="/kimber/Kaylee-EverythingsShiny-byKarenHallion.jpg" alt="CLICK HERE for a Happy Christmas 2020!" title="CLICK HERE for a Happy Christmas 2020" width="300px"></a>
+
 <div class="grid__wrapper">
   <p>
-    <a href="/kimber/JewelStaite-cameo.mp4"><img src="/kimber/Kaylee-EverythingsShiny-byKarenHallion.jpg" alt="CLICK HERE for a Happy Christmas!" title="CLICK HERE for a Happy Christmas" width="300px"></a>
+    <a href="/kimber/JewelStaite-cameo.mp4"><img src="/kimber/Kaylee-EverythingsShiny-byKarenHallion.jpg" alt="CLICK HERE for a Happy Christmas 2020!" title="CLICK HERE for a Happy Christmas 2020" width="300px"></a>
   </p>
   <p>Art by <a href="https://www.karenhallion.com/">Karen Hallion</a>.</p>
 </div>
