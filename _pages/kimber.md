@@ -10,6 +10,19 @@ author_profile: false
 
 {{ page.excerpt | markdownify }}
 
+## Music recommended by Dad
+
+Here's a handy little playlist on Apple Music: [Dad tunes 4K](https://music.apple.com/us/playlist/dad-tunes-4k/pl.u-76oNkLNsWko5xG)
+
+Give these songs a listen: 
+* In the Meantime, by Spacehog
+* You Can't Always Get What You Want, by The Rolling Stones
+* Landslide, by Fleetwood Mac
+* Desperado, by Eagles
+* Barracude, by Heart
+* Imagine, by John Lennon
+* Rocket Man, by Elton John
+
 <div class="grid__wrapper">
   <p>
     <a href="/kimber/JewelStaite-cameo.mp4"><img src="/kimber/Kaylee-EverythingsShiny-byKarenHallion.jpg" alt="CLICK HERE for a Happy Christmas!" title="CLICK HERE for a Happy Christmas" width="300px"></a>
