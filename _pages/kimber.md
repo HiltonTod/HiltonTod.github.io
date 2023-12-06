@@ -30,6 +30,7 @@ Here's a handy little playlist you can subscribe to on Apple Music: [Dad tunes 4
 
 * Barracude, by Heart
 * Desperado, by Eagles
+* Don't Stop Believin', by Journey
 * Imagine, by John Lennon
 * In the Meantime, by Spacehog
 * Landslide, by Fleetwood Mac
