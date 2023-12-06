@@ -15,7 +15,7 @@ author_profile: false
 ## Links
 
 * Family pictures are [here](https://photos.todhilton.com/Personal).
-* Session notes from Dad's D&D campaigin are at [todhilton.com/dnd](https://todhilton.com/dnd).
+* Session notes from Dad's D&D campaign are at [todhilton.com/dnd](https://todhilton.com/dnd).
 
 ## Christmas 2020
 
