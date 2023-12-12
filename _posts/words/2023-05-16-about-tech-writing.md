@@ -320,7 +320,7 @@ Combining my curiosity with a job where I'm expected to learn new things is a
 recipe for fun. While they call it work and not play for a reason—a phrase often
 heard from my dad—I sincerely enjoy digging into something new and trying to
 understand it as best I can. On a personal note, my curiosity and love of learning
-is one of the reasons I'm an avid reader ([my reading list](http://todhilton.com/reads/books/),
+is one of the reasons I'm an avid reader (check out [my reading list](http://todhilton.com/reads/books/)),
 which I believe contributes to my success as a technical writer.
 
 > Not all readers are leaders, but all leaders are readers. ~Harry S. Truman
@@ -328,7 +328,7 @@ which I believe contributes to my success as a technical writer.
 It wasn't until later in my career that I realized how much I enjoy helping others.
 I like knowing that my work helps someone get through a tough moment of their
 code failing or providing that ah-ha moment when they finally understand a
-complext concept. While it might not necessarily fit into the category of fun,
+complex concept. While it might not necessarily fit into the category of fun,
 it's rewarding and a large part of my motivation.
 
 ## Find joy in your work
@@ -486,6 +486,10 @@ work with, and writers with minimal programming knowledge or experience. The sam
 can be said for the products and technologies we write about. There are products
 that require little coding and others that are extremely technical, where
 writers spend a significant amount of effort on code samples.
+
+## Do I need to love writing?
+
+No, but I think it helps.
 
 ## What other types of writing jobs are available?
 
