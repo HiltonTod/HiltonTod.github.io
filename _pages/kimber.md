@@ -29,7 +29,7 @@ Give these songs a listen. They're some of my all-time favorites and hopefully y
 
 Here's a handy little playlist you can subscribe to on Apple Music: [Dad tunes 4K](https://music.apple.com/us/playlist/dad-tunes-4k/pl.u-76oNkLNsWko5xG)
 
-* Barracude, by Heart
+* Barracuda, by Heart
 * California Dreamin', by The Mamas and the Papas
 * Desperado, by Eagles
 * Don't Stop Believin', by Journey
