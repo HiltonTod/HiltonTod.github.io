@@ -25,9 +25,11 @@ Art by [Karen Hallion](https://www.karenhallion.com/).
 
 ## Music recommended by Dad
 
-Give these songs a listen. They're some of my all-time favorites and hopefully you'll enjoy a few of them.
+Give these songs a listen. They're some of my all-time favorites and hopefully you'll enjoy
+a few of them. Here's a handy little playlist you can subscribe to on Apple
+Music: [Dad tunes 4K](https://music.apple.com/us/playlist/dad-tunes-4k/pl.u-76oNkLNsWko5xG)
 
-Here's a handy little playlist you can subscribe to on Apple Music: [Dad tunes 4K](https://music.apple.com/us/playlist/dad-tunes-4k/pl.u-76oNkLNsWko5xG)
+Also, for some holiday spirit, check out [Dad's Xmas Songs](https://music.apple.com/us/playlist/dads-xmas-songs/pl.u-aZb0N60IPNLByo).
 
 * Barracuda, by Heart
 * California Dreamin', by The Mamas and the Papas
