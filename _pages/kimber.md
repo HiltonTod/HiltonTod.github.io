@@ -36,6 +36,7 @@ Note: You can export the playlists to YouTube Music.
  some of my all-time favorites that I've suggested for you in my letters. Hopefully you'll
  enjoy a few of them. Here's the full list of songs:
 * Barracuda, by Heart
+* Best of You, by Foo Fighters
 * California Dreamin', by The Mamas and the Papas
 * Desperado, by Eagles
 * Don't Stop Believin', by Journey
