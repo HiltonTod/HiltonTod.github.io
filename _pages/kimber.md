@@ -40,7 +40,9 @@ Note: You can export the playlists to YouTube Music.
 * California Dreamin', by The Mamas and the Papas
 * Desperado, by Eagles
 * Don't Stop Believin', by Journey
+* I Still Haven't Found What I'm Looking For, by U2
 * Imagine, by John Lennon
+* In the Air Tonight, by Phil Collins
 * In the Meantime, by Spacehog
 * Jack and Diane, by John Mellencamp
 * Landslide, by Fleetwood Mac
