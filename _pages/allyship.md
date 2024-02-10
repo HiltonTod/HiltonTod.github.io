@@ -2,7 +2,6 @@
 layout: single
 permalink: /allyship/
 title: "Allyship"
-excerpt: ""
 fullwidth: true
 author_profile: true
 ---
