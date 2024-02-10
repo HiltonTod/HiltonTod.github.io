@@ -2,7 +2,6 @@
 layout: single
 permalink: /facts/
 title: "Are your facts really true?"
-excerpt: ""
 fullwidth: true
 author_profile: true
 ---

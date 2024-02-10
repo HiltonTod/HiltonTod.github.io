@@ -2,7 +2,6 @@
 layout: archive
 permalink: /square/
 title: ""
-excerpt: ""
 ads: false
 fullwidth: true
 author_profile: false
