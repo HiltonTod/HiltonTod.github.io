@@ -2,8 +2,6 @@
 layout: archive
 permalink: /technicalwriting/
 title: "Portfolio"
-excerpt: "I like to write. I like technology. I like to help. Technical 
-writing combines those passions. See my **[resume here](/resume/)**."
 author_profile: true
 feature:
   visible: false
@@ -12,6 +10,9 @@ feature:
 ---
 
 {{ page.excerpt | markdownify }}
+
+I like to write. I like technology. I like to help. Technical 
+writing combines those passions. See my **[resume here](/resume/)**.
 
 ---
 
