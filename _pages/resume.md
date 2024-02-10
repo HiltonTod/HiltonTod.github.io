@@ -2,7 +2,6 @@
 layout: single
 permalink: /resume/
 title: "Resume"
-excerpt: ""
 fullwidth: true
 author_profile: true
 ---
