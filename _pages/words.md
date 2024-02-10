@@ -2,13 +2,14 @@
 layout: archive
 permalink: /words/
 title: "Words"
-excerpt: "Getting the words out. My writings on topics ranging from parenting to technology to just about anything that pops into my head."
 ads: false
 fullwidth: true
 author_profile: true
 ---
 
 {{ page.excerpt | markdownify }}
+
+Getting the words out. My writings on topics ranging from parenting to technology to just about anything that pops into my head.
 
 ---
 
