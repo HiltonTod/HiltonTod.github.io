@@ -2,7 +2,6 @@
 layout: single
 permalink: /kimber/
 title: "Stuff for Kimber"
-excerpt: ""
 ads: false
 fullwidth: true
 author_profile: false
