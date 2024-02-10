@@ -2,7 +2,6 @@
 layout: archive
 permalink: /links/
 title: "Links"
-excerpt: ""
 ads: false
 fullwidth: true
 author_profile: false
