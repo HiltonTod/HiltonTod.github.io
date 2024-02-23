@@ -39,6 +39,7 @@ Note: You can export the playlists to YouTube Music.
 * California Dreamin', by The Mamas and the Papas
 * Desperado, by Eagles
 * Don't Stop Believin', by Journey
+* Fire and Rain, by James Taylor
 * I Still Haven't Found What I'm Looking For, by U2
 * Imagine, by John Lennon
 * In the Air Tonight, by Phil Collins
