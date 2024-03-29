@@ -46,6 +46,7 @@ Note: You can export the playlists to YouTube Music.
 * In the Meantime, by Spacehog
 * Jack and Diane, by John Mellencamp
 * Landslide, by Fleetwood Mac
+* Losing My Religion, by R.E.M. 
 * Mary Jane's Last Dance, by Tom Petty and the Heartbreakers 
 * Rocket Man, by Elton John
 * You Can't Always Get What You Want, by The Rolling Stones
