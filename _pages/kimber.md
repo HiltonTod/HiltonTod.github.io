@@ -47,7 +47,8 @@ Note: You can export the playlists to YouTube Music.
 * Jack and Diane, by John Mellencamp
 * Landslide, by Fleetwood Mac
 * Losing My Religion, by R.E.M. 
-* Mary Jane's Last Dance, by Tom Petty and the Heartbreakers 
+* Mary Jane's Last Dance, by Tom Petty and the Heartbreakers
+* Never Tear Us Apart, by INXS
 * Rocket Man, by Elton John
 * Where the Streets Have No Name, by U2
 * You Can't Always Get What You Want, by The Rolling Stones
