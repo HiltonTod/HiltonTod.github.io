@@ -50,5 +50,6 @@ Note: You can export the playlists to YouTube Music.
 * Mary Jane's Last Dance, by Tom Petty and the Heartbreakers
 * Never Tear Us Apart, by INXS
 * Rocket Man, by Elton John
+* Under the Bridge, by Red Hot Chili Peppers
 * Where the Streets Have No Name, by U2
 * You Can't Always Get What You Want, by The Rolling Stones
