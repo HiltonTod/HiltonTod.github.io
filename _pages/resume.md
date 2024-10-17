@@ -60,8 +60,8 @@ We've all got 'em, but not everyone realizes what theirs are or when they're usi
 ### Awards
 
 -   Leads with Respect award - Nominated & approved by committee of peers for community leadership.
--   24 peer bonuses & kudos - Given by peers for a variety of reasons, including outstanding
-    performance and community service.
+-   50 peer/spot bonuses & kudos - Given by peers & managers for a variety of reasons, including
+    outstanding performance and community service.
 
 ### Technologies used
 
