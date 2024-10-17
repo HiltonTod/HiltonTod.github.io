@@ -40,7 +40,7 @@ We've all got 'em, but not everyone realizes what theirs are or when they're usi
 
 -   **Designed and published the capstone module** for the internal version of Google's Machine
     Learning Crash Course, collaborating closely with engineering to create an end-to-end
-    scenario that guides engineers through the process of creating a machine learning model.
+    scenario that guides engineers through the process of creating and using a machine learning model.
 -   **Planned, architected**, and **authored the complete documentation set** for a new
     version of committed use discounts (CUD), helping drive millions in annual recurring
     revenue (ARR).
