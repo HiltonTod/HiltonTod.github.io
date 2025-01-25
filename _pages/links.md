@@ -24,7 +24,7 @@ author_profile: false
 
 [&nbsp;&nbsp;&nbsp;&nbsp; Reading list &nbsp;&nbsp;&nbsp;&nbsp;](/reads/books){: .btn}
 
-[&nbsp; Top Reads 2024 &nbsp;&nbsp;](/reads/top-reads-2024){: .btn}
+[&nbsp; Top Reads 2024 &nbsp;](/reads/top-reads-2024){: .btn}
 
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resume &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](/resume){: .btn}
 
