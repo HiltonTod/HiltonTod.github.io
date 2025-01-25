@@ -16,11 +16,15 @@ author_profile: false
 
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/todhilton){: .btn}
 
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BlueSky &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://bsky.app/profile/todhilton.com){: .btn}
+
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mastodon &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://hachyderm.io/@HiltonTod){: .btn}
 
 [&nbsp;&nbsp;&nbsp; Photography &nbsp;&nbsp;&nbsp;](https://photos.todhilton.com/){: .btn}
 
 [&nbsp;&nbsp;&nbsp;&nbsp; Reading list &nbsp;&nbsp;&nbsp;&nbsp;](/reads/books){: .btn}
+
+[&nbsp;&nbsp;&nbsp;&nbsp; Top Reads 2024 &nbsp;&nbsp;&nbsp;&nbsp;](/reads/top-reads-2024){: .btn}
 
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resume &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](/resume){: .btn}
 
