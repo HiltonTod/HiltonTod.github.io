@@ -18,7 +18,8 @@ I’m passionate about technology, writing, and helping others.
 
 | Company                                               | Timeframe                        | Roles |
 |---|---|
-| [Google](#google)                                     | _April 2018 to Present_          | Technical Writer |
+| [Netflix](#netflix)                                   | _January 2025 to Present_        | Technical Writer |
+| [Google](#google)                                     | _April 2018 to January 2025_     | Technical Writer |
 | [HBO](#hbo)                                           | _April 2016 to March 2018_       | Technical Writer |
 | [Microsoft](#microsoft)                               | _October 1999 to December 2015_  | Software Engineer, Software Development Engineer in Test (SDET), Systems Engineer, Lead Systems Administrator |
 | [Fohn, Spink, and Co., CPAs](#fohn-spink-and-co-cpas) | _January 1996 to September 1999_ | Systems Administrator, Accountant |
@@ -34,9 +35,13 @@ We've all got 'em, but not everyone realizes what theirs are or when they're usi
 -   **Empathy** - With customers and peers, it’s what I do.
 -   **Humor** - Because some days, laughing is the only thing I can actually control.
 
+# Netflix
+
+**Senior Technical Writer** - _January 20225 to Present_
+
 # Google
 
-**Technical Writer** - _April 2018 to Present_
+**Technical Writer** - _April 2018 to January 2025_
 
 -   **Designed and published the capstone module** for the internal version of Google's Machine
     Learning Crash Course, collaborating closely with engineering to create an end-to-end
