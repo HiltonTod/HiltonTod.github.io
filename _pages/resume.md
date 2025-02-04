@@ -37,7 +37,7 @@ We've all got 'em, but not everyone realizes what theirs are or when they're usi
 
 # Netflix
 
-**Senior Technical Writer** - _January 20225 to Present_
+**Senior Technical Writer** - _January 2025 to Present_
 
 # Google
 
