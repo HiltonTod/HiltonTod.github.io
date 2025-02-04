@@ -18,7 +18,7 @@ I’m passionate about technology, writing, and helping others.
 
 | Company                                               | Timeframe                        | Roles |
 |---|---|
-| [Netflix](#netflix)                                   | _January 2025 to Present_        | Technical Writer |
+| [Netflix](#netflix)                                   | _January 2025 to Present_        | Senior Technical Writer |
 | [Google](#google)                                     | _April 2018 to January 2025_     | Technical Writer |
 | [HBO](#hbo)                                           | _April 2016 to March 2018_       | Technical Writer |
 | [Microsoft](#microsoft)                               | _October 1999 to December 2015_  | Software Engineer, Software Development Engineer in Test (SDET), Systems Engineer, Lead Systems Administrator |
