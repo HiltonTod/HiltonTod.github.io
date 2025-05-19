@@ -39,6 +39,10 @@ We've all got 'em, but not everyone realizes what theirs are or when they're usi
 
 **Senior Technical Writer** - _January 2025 to Present_
 
+<p align="center"><a href="#top">top</a><br>~ ~ ~</p>
+
+---
+
 # Google
 
 **Technical Writer** - _April 2018 to January 2025_
