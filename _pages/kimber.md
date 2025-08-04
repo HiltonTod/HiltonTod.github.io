@@ -49,6 +49,7 @@ Note: You can export the playlists to YouTube Music.
 * Losing My Religion, by R.E.M. 
 * Mary Jane's Last Dance, by Tom Petty and the Heartbreakers
 * Never Tear Us Apart, by INXS
+* Pictures of You, by The Cure
 * Rocket Man, by Elton John
 * Under the Bridge, by Red Hot Chili Peppers
 * Where the Streets Have No Name, by U2
