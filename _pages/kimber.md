@@ -51,7 +51,7 @@ Note: You can export the playlists to YouTube Music.
 * Never Tear Us Apart, by INXS
 * Pictures of You, by The Cure
 * Rocket Man, by Elton John
-* Take on Me, by A-ha ([music video](youtube.com/watch?v=djV11Xbc914&vl=en))
+* Take on Me, by A-ha ([music video](https://youtu.be/djV11Xbc914?si=ESz90paYamaqOuwr))
 * Under the Bridge, by Red Hot Chili Peppers
 * Where the Streets Have No Name, by U2
 * You Can't Always Get What You Want, by The Rolling Stones
