@@ -58,8 +58,8 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : HiltonTod
-  instance               : hachyderm.io
+  username               :
+  instance               :
 twitter:
   username               : 
 facebook:
