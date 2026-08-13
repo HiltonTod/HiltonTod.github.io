@@ -8,4 +8,4 @@ This goes for author sidebar links and "share button" additions -- I have no int
 
 ## Pull Requests
 
-To help me out try to avoid creating pull requests on `main` and instead branch off of `develop`. It's much easier for me to test, merge, and roll them into new releases this way.
+To help me out try to avoid creating pull requests on `master` and instead branch off of `develop`. It's much easier for me to test, merge, and roll them into new releases this way.
